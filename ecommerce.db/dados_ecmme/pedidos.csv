@@ -1,0 +1,2001 @@
+﻿id_pedido,id_cliente,data_pedido,forma_pagamento,status
+1,324,2025-08-29,Boleto,Cancelado
+2,383,2025-08-21,Pix,Cancelado
+3,390,2025-04-11,Boleto,Em Transporte
+4,228,2025-04-13,Pix,Em Transporte
+5,463,2025-11-03,Pix,Entregue
+6,408,2025-11-29,Pix,Cancelado
+7,192,2026-01-03,Cartão,Entregue
+8,272,2025-09-08,Cartão,Em Transporte
+9,88,2025-07-04,Pix,Entregue
+10,318,2026-01-27,Boleto,Entregue
+11,468,2026-05-25,Boleto,Entregue
+12,237,2025-08-26,Boleto,Cancelado
+13,131,2026-04-16,Boleto,Entregue
+14,462,2026-04-22,Cartão,Em Transporte
+15,38,2025-06-11,Cartão,Cancelado
+16,328,2025-11-03,Cartão,Em Transporte
+17,234,2025-09-14,Cartão,Entregue
+18,437,2026-01-29,Cartão,Entregue
+19,196,2025-08-31,Boleto,Cancelado
+20,359,2025-10-30,Cartão,Entregue
+21,141,2026-02-10,Pix,Em Transporte
+22,467,2025-02-20,Boleto,Em Transporte
+23,427,2026-05-24,Cartão,Entregue
+24,113,2025-12-27,Boleto,Entregue
+25,348,2025-09-14,Boleto,Em Transporte
+26,322,2025-05-21,Pix,Em Transporte
+27,159,2025-02-10,Cartão,Entregue
+28,375,2026-01-09,Pix,Entregue
+29,168,2025-10-30,Boleto,Cancelado
+30,103,2025-06-29,Pix,Em Transporte
+31,272,2026-01-10,Boleto,Cancelado
+32,132,2025-06-18,Cartão,Cancelado
+33,412,2025-12-13,Pix,Cancelado
+34,73,2025-03-19,Pix,Em Transporte
+35,496,2026-02-11,Boleto,Cancelado
+36,405,2025-04-03,Cartão,Entregue
+37,275,2025-09-28,Pix,Cancelado
+38,345,2026-01-13,Boleto,Em Transporte
+39,300,2025-09-26,Cartão,Em Transporte
+40,56,2026-01-16,Boleto,Entregue
+41,13,2026-04-28,Boleto,Em Transporte
+42,469,2025-12-02,Boleto,Entregue
+43,326,2025-03-06,Cartão,Em Transporte
+44,333,2025-11-06,Cartão,Entregue
+45,24,2025-05-24,Pix,Cancelado
+46,60,2026-05-20,Pix,Entregue
+47,199,2025-05-19,Cartão,Cancelado
+48,301,2026-03-06,Boleto,Em Transporte
+49,454,2025-06-08,Cartão,Em Transporte
+50,427,2025-04-12,Cartão,Em Transporte
+51,481,2026-02-22,Cartão,Entregue
+52,112,2026-01-15,Cartão,Cancelado
+53,438,2025-08-30,Cartão,Entregue
+54,279,2026-01-12,Boleto,Cancelado
+55,204,2025-03-04,Cartão,Entregue
+56,486,2025-05-06,Cartão,Entregue
+57,329,2025-08-06,Boleto,Em Transporte
+58,26,2025-01-22,Cartão,Entregue
+59,403,2025-05-09,Boleto,Entregue
+60,425,2025-03-12,Boleto,Entregue
+61,417,2025-08-10,Pix,Cancelado
+62,404,2025-06-01,Boleto,Entregue
+63,440,2025-10-11,Pix,Entregue
+64,409,2025-09-14,Pix,Entregue
+65,68,2025-01-27,Pix,Cancelado
+66,302,2025-09-01,Cartão,Entregue
+67,136,2025-06-28,Pix,Entregue
+68,270,2026-03-08,Pix,Em Transporte
+69,244,2025-03-07,Cartão,Cancelado
+70,304,2026-06-10,Pix,Cancelado
+71,114,2026-05-31,Boleto,Entregue
+72,155,2026-06-18,Cartão,Em Transporte
+73,32,2025-02-01,Cartão,Cancelado
+74,352,2026-03-13,Pix,Cancelado
+75,38,2026-03-31,Pix,Cancelado
+76,34,2025-06-01,Pix,Cancelado
+77,196,2025-11-29,Boleto,Em Transporte
+78,233,2025-10-29,Boleto,Em Transporte
+79,51,2026-03-17,Boleto,Entregue
+80,221,2025-08-09,Cartão,Entregue
+81,174,2026-02-28,Cartão,Cancelado
+82,374,2026-03-02,Pix,Cancelado
+83,161,2026-03-14,Boleto,Cancelado
+84,489,2026-01-19,Pix,Em Transporte
+85,35,2026-05-01,Pix,Entregue
+86,222,2025-04-06,Pix,Em Transporte
+87,416,2026-01-17,Pix,Em Transporte
+88,301,2025-03-03,Boleto,Em Transporte
+89,344,2025-12-04,Pix,Cancelado
+90,448,2025-12-29,Boleto,Cancelado
+91,496,2025-02-22,Cartão,Em Transporte
+92,181,2025-11-16,Pix,Em Transporte
+93,109,2026-06-04,Pix,Em Transporte
+94,115,2026-05-09,Pix,Cancelado
+95,59,2026-01-12,Cartão,Em Transporte
+96,414,2025-08-20,Cartão,Em Transporte
+97,312,2025-01-27,Boleto,Em Transporte
+98,15,2025-10-01,Pix,Cancelado
+99,472,2025-11-13,Cartão,Cancelado
+100,93,2025-01-07,Pix,Em Transporte
+101,36,2026-02-15,Pix,Em Transporte
+102,47,2025-02-01,Boleto,Em Transporte
+103,193,2025-08-09,Cartão,Cancelado
+104,81,2025-12-16,Cartão,Cancelado
+105,398,2025-11-29,Boleto,Em Transporte
+106,453,2025-03-28,Pix,Entregue
+107,387,2025-06-11,Boleto,Entregue
+108,140,2025-03-25,Cartão,Em Transporte
+109,249,2026-03-11,Boleto,Cancelado
+110,140,2026-03-01,Pix,Em Transporte
+111,177,2025-04-27,Cartão,Entregue
+112,348,2025-10-18,Boleto,Em Transporte
+113,270,2026-05-14,Boleto,Cancelado
+114,113,2025-02-16,Cartão,Em Transporte
+115,4,2025-02-26,Pix,Cancelado
+116,393,2025-08-05,Pix,Cancelado
+117,168,2025-10-24,Pix,Entregue
+118,383,2026-05-25,Cartão,Entregue
+119,195,2025-05-13,Boleto,Em Transporte
+120,257,2025-08-24,Boleto,Em Transporte
+121,37,2025-12-29,Cartão,Em Transporte
+122,224,2025-02-13,Pix,Cancelado
+123,442,2025-03-21,Cartão,Em Transporte
+124,294,2026-03-16,Cartão,Em Transporte
+125,149,2026-03-04,Pix,Cancelado
+126,495,2025-01-22,Cartão,Entregue
+127,426,2026-04-17,Boleto,Cancelado
+128,224,2025-04-01,Pix,Entregue
+129,302,2026-03-23,Cartão,Em Transporte
+130,203,2025-03-22,Cartão,Em Transporte
+131,114,2025-12-14,Cartão,Entregue
+132,262,2025-03-20,Boleto,Entregue
+133,100,2026-06-07,Cartão,Cancelado
+134,121,2025-06-01,Pix,Entregue
+135,102,2025-09-20,Pix,Em Transporte
+136,390,2025-06-06,Boleto,Entregue
+137,488,2025-07-01,Boleto,Cancelado
+138,387,2026-04-21,Boleto,Em Transporte
+139,349,2026-04-05,Boleto,Em Transporte
+140,443,2025-11-27,Boleto,Cancelado
+141,226,2025-06-04,Pix,Cancelado
+142,324,2026-03-29,Cartão,Cancelado
+143,181,2025-02-27,Boleto,Entregue
+144,237,2025-11-14,Cartão,Entregue
+145,189,2025-02-28,Cartão,Entregue
+146,315,2025-04-03,Boleto,Em Transporte
+147,237,2026-01-29,Boleto,Em Transporte
+148,231,2025-02-12,Boleto,Em Transporte
+149,165,2025-07-12,Boleto,Cancelado
+150,78,2026-05-29,Pix,Cancelado
+151,416,2025-04-16,Cartão,Em Transporte
+152,259,2025-03-28,Boleto,Entregue
+153,127,2025-02-10,Boleto,Cancelado
+154,269,2026-03-26,Boleto,Em Transporte
+155,187,2025-06-12,Cartão,Cancelado
+156,210,2026-02-01,Cartão,Em Transporte
+157,405,2025-02-23,Boleto,Em Transporte
+158,34,2025-12-09,Cartão,Entregue
+159,146,2026-01-31,Cartão,Em Transporte
+160,171,2025-06-03,Pix,Em Transporte
+161,470,2025-05-25,Cartão,Cancelado
+162,67,2026-02-06,Boleto,Em Transporte
+163,159,2025-03-28,Boleto,Cancelado
+164,417,2025-12-03,Pix,Em Transporte
+165,48,2026-06-24,Boleto,Em Transporte
+166,261,2026-03-10,Cartão,Entregue
+167,159,2026-01-07,Pix,Entregue
+168,486,2025-12-16,Cartão,Entregue
+169,71,2025-08-20,Pix,Entregue
+170,433,2025-10-30,Pix,Em Transporte
+171,20,2026-06-24,Boleto,Cancelado
+172,306,2025-05-15,Cartão,Entregue
+173,93,2025-06-16,Boleto,Em Transporte
+174,370,2025-06-19,Cartão,Entregue
+175,187,2026-02-25,Boleto,Em Transporte
+176,497,2025-09-01,Cartão,Em Transporte
+177,386,2025-10-19,Boleto,Cancelado
+178,274,2025-08-28,Pix,Cancelado
+179,463,2026-04-26,Pix,Cancelado
+180,237,2026-03-28,Cartão,Cancelado
+181,271,2026-05-30,Cartão,Entregue
+182,411,2025-07-24,Boleto,Entregue
+183,27,2025-09-14,Boleto,Cancelado
+184,284,2026-01-16,Pix,Em Transporte
+185,436,2026-06-13,Pix,Cancelado
+186,391,2025-03-27,Pix,Cancelado
+187,464,2026-04-06,Boleto,Entregue
+188,47,2026-03-24,Pix,Cancelado
+189,477,2025-12-24,Pix,Cancelado
+190,203,2025-02-24,Boleto,Cancelado
+191,198,2025-08-30,Pix,Cancelado
+192,15,2025-08-18,Cartão,Entregue
+193,406,2025-12-10,Pix,Entregue
+194,147,2025-02-09,Cartão,Em Transporte
+195,389,2025-05-23,Boleto,Cancelado
+196,316,2026-04-05,Pix,Entregue
+197,132,2025-01-20,Pix,Entregue
+198,217,2026-06-25,Pix,Cancelado
+199,155,2025-09-01,Pix,Entregue
+200,215,2025-09-02,Boleto,Em Transporte
+201,33,2026-04-14,Pix,Cancelado
+202,324,2025-01-17,Boleto,Em Transporte
+203,368,2025-09-05,Pix,Cancelado
+204,1,2026-03-16,Boleto,Cancelado
+205,293,2025-09-04,Cartão,Entregue
+206,269,2025-03-29,Cartão,Entregue
+207,279,2026-06-23,Boleto,Em Transporte
+208,200,2025-01-21,Cartão,Entregue
+209,192,2026-02-01,Cartão,Em Transporte
+210,183,2025-01-17,Pix,Cancelado
+211,376,2025-09-04,Boleto,Em Transporte
+212,396,2025-04-17,Boleto,Em Transporte
+213,69,2025-12-07,Pix,Cancelado
+214,417,2025-12-13,Boleto,Entregue
+215,357,2026-04-21,Cartão,Em Transporte
+216,416,2025-07-06,Pix,Entregue
+217,19,2026-04-14,Cartão,Entregue
+218,406,2025-02-14,Pix,Entregue
+219,478,2025-11-20,Cartão,Em Transporte
+220,418,2026-02-12,Boleto,Cancelado
+221,19,2025-09-17,Boleto,Entregue
+222,183,2025-10-20,Pix,Em Transporte
+223,140,2025-12-06,Pix,Cancelado
+224,456,2026-03-24,Cartão,Em Transporte
+225,459,2026-03-27,Cartão,Cancelado
+226,255,2025-07-11,Boleto,Cancelado
+227,474,2026-01-12,Boleto,Cancelado
+228,373,2025-03-26,Cartão,Entregue
+229,309,2026-03-17,Pix,Em Transporte
+230,165,2025-10-28,Pix,Entregue
+231,339,2025-12-02,Cartão,Cancelado
+232,309,2026-04-02,Boleto,Cancelado
+233,354,2025-06-20,Cartão,Cancelado
+234,22,2026-04-03,Boleto,Cancelado
+235,141,2026-03-22,Boleto,Entregue
+236,344,2025-03-18,Boleto,Cancelado
+237,263,2026-01-08,Boleto,Em Transporte
+238,488,2025-06-13,Pix,Entregue
+239,18,2026-03-25,Pix,Entregue
+240,399,2025-08-30,Boleto,Cancelado
+241,197,2026-01-06,Boleto,Entregue
+242,348,2025-06-07,Cartão,Cancelado
+243,228,2026-01-16,Pix,Em Transporte
+244,272,2025-05-21,Cartão,Cancelado
+245,333,2025-11-18,Cartão,Entregue
+246,14,2025-04-27,Boleto,Entregue
+247,266,2026-05-27,Cartão,Em Transporte
+248,135,2025-05-01,Cartão,Em Transporte
+249,110,2026-04-02,Boleto,Cancelado
+250,103,2026-05-18,Pix,Entregue
+251,232,2025-03-17,Pix,Em Transporte
+252,45,2026-04-01,Boleto,Cancelado
+253,364,2025-12-22,Pix,Em Transporte
+254,457,2025-10-25,Cartão,Entregue
+255,407,2025-06-28,Cartão,Em Transporte
+256,63,2025-08-18,Pix,Entregue
+257,405,2025-08-31,Cartão,Entregue
+258,284,2026-01-05,Boleto,Cancelado
+259,412,2026-04-24,Boleto,Entregue
+260,34,2025-03-30,Cartão,Cancelado
+261,270,2026-05-06,Cartão,Cancelado
+262,65,2025-03-17,Cartão,Em Transporte
+263,231,2025-03-17,Cartão,Em Transporte
+264,177,2026-06-14,Pix,Em Transporte
+265,394,2025-07-06,Pix,Cancelado
+266,467,2026-05-30,Pix,Entregue
+267,79,2026-06-15,Cartão,Entregue
+268,166,2025-06-15,Boleto,Entregue
+269,486,2025-12-21,Boleto,Cancelado
+270,129,2025-03-22,Pix,Em Transporte
+271,65,2025-10-09,Boleto,Cancelado
+272,258,2025-04-06,Boleto,Entregue
+273,88,2025-06-07,Boleto,Em Transporte
+274,432,2025-12-12,Boleto,Entregue
+275,42,2025-01-30,Pix,Em Transporte
+276,334,2025-09-29,Pix,Em Transporte
+277,317,2026-03-03,Boleto,Entregue
+278,456,2026-05-25,Boleto,Em Transporte
+279,329,2025-10-24,Cartão,Cancelado
+280,413,2025-09-08,Boleto,Cancelado
+281,233,2025-11-01,Pix,Em Transporte
+282,81,2025-03-03,Cartão,Cancelado
+283,238,2026-05-11,Pix,Cancelado
+284,161,2025-05-28,Boleto,Cancelado
+285,500,2025-12-20,Cartão,Entregue
+286,264,2026-01-15,Boleto,Entregue
+287,124,2025-11-23,Cartão,Entregue
+288,231,2025-10-01,Pix,Entregue
+289,26,2025-04-10,Cartão,Cancelado
+290,128,2026-03-05,Pix,Cancelado
+291,98,2025-11-17,Pix,Cancelado
+292,240,2026-06-12,Cartão,Cancelado
+293,12,2026-05-25,Pix,Cancelado
+294,235,2026-06-02,Pix,Entregue
+295,25,2025-12-28,Pix,Cancelado
+296,306,2026-05-22,Boleto,Em Transporte
+297,147,2026-04-27,Boleto,Entregue
+298,221,2025-04-21,Pix,Cancelado
+299,392,2026-01-10,Cartão,Cancelado
+300,206,2025-02-16,Pix,Em Transporte
+301,186,2025-07-19,Boleto,Cancelado
+302,198,2025-03-17,Boleto,Cancelado
+303,423,2025-10-14,Boleto,Em Transporte
+304,66,2025-05-02,Pix,Cancelado
+305,407,2026-01-18,Cartão,Em Transporte
+306,387,2026-01-10,Pix,Entregue
+307,206,2026-06-06,Boleto,Entregue
+308,20,2025-02-16,Pix,Em Transporte
+309,412,2025-12-08,Cartão,Em Transporte
+310,77,2026-04-13,Boleto,Em Transporte
+311,168,2025-05-24,Boleto,Cancelado
+312,202,2025-06-16,Boleto,Em Transporte
+313,304,2025-11-03,Cartão,Em Transporte
+314,273,2026-06-06,Cartão,Em Transporte
+315,244,2025-11-03,Pix,Cancelado
+316,345,2025-12-06,Pix,Cancelado
+317,408,2025-11-12,Boleto,Em Transporte
+318,306,2025-01-28,Cartão,Cancelado
+319,370,2025-08-22,Pix,Em Transporte
+320,88,2026-05-07,Boleto,Em Transporte
+321,76,2026-01-25,Boleto,Entregue
+322,294,2025-02-02,Boleto,Entregue
+323,10,2025-07-15,Cartão,Cancelado
+324,78,2026-03-05,Cartão,Em Transporte
+325,211,2025-07-28,Boleto,Em Transporte
+326,447,2026-04-28,Boleto,Em Transporte
+327,362,2025-03-05,Pix,Em Transporte
+328,288,2025-08-01,Cartão,Em Transporte
+329,270,2026-05-05,Cartão,Cancelado
+330,236,2025-06-27,Boleto,Cancelado
+331,347,2025-12-29,Boleto,Em Transporte
+332,313,2025-09-28,Cartão,Entregue
+333,143,2025-09-10,Boleto,Cancelado
+334,483,2025-08-19,Cartão,Cancelado
+335,354,2025-08-01,Boleto,Cancelado
+336,246,2025-11-21,Cartão,Em Transporte
+337,148,2025-10-08,Pix,Em Transporte
+338,459,2026-01-24,Cartão,Cancelado
+339,149,2025-05-30,Pix,Cancelado
+340,178,2025-03-22,Cartão,Em Transporte
+341,383,2025-09-20,Cartão,Entregue
+342,424,2025-07-26,Boleto,Cancelado
+343,71,2025-10-06,Pix,Em Transporte
+344,125,2025-09-03,Pix,Em Transporte
+345,327,2025-08-20,Pix,Entregue
+346,212,2025-04-13,Cartão,Em Transporte
+347,52,2026-04-29,Boleto,Entregue
+348,494,2025-01-06,Boleto,Entregue
+349,335,2026-02-21,Cartão,Cancelado
+350,388,2025-07-24,Cartão,Cancelado
+351,331,2025-10-20,Pix,Entregue
+352,274,2025-08-26,Boleto,Em Transporte
+353,468,2025-02-08,Pix,Cancelado
+354,479,2025-06-30,Pix,Cancelado
+355,96,2026-05-23,Boleto,Cancelado
+356,5,2025-02-08,Cartão,Em Transporte
+357,476,2025-04-20,Cartão,Cancelado
+358,329,2026-04-11,Boleto,Em Transporte
+359,456,2026-05-21,Pix,Em Transporte
+360,140,2026-04-25,Pix,Entregue
+361,84,2025-12-05,Boleto,Cancelado
+362,368,2025-09-21,Pix,Entregue
+363,405,2025-12-12,Cartão,Em Transporte
+364,90,2025-07-17,Boleto,Em Transporte
+365,424,2026-02-20,Cartão,Em Transporte
+366,45,2025-12-02,Cartão,Em Transporte
+367,95,2025-04-08,Pix,Cancelado
+368,480,2025-11-28,Pix,Entregue
+369,197,2025-09-25,Pix,Cancelado
+370,489,2025-10-01,Cartão,Cancelado
+371,134,2025-01-12,Boleto,Cancelado
+372,32,2025-08-30,Boleto,Entregue
+373,158,2026-04-22,Pix,Cancelado
+374,473,2026-05-30,Boleto,Cancelado
+375,328,2025-05-01,Cartão,Cancelado
+376,113,2025-08-15,Pix,Cancelado
+377,233,2025-06-06,Boleto,Em Transporte
+378,213,2026-01-18,Boleto,Em Transporte
+379,388,2026-04-28,Boleto,Em Transporte
+380,391,2025-08-12,Pix,Em Transporte
+381,270,2025-03-25,Cartão,Em Transporte
+382,40,2026-01-06,Boleto,Entregue
+383,425,2025-03-05,Boleto,Em Transporte
+384,294,2025-07-27,Boleto,Entregue
+385,168,2025-06-18,Boleto,Cancelado
+386,349,2025-04-30,Pix,Em Transporte
+387,47,2026-05-16,Boleto,Cancelado
+388,233,2025-02-26,Pix,Em Transporte
+389,234,2026-03-02,Boleto,Entregue
+390,345,2026-04-19,Cartão,Em Transporte
+391,203,2025-01-23,Cartão,Entregue
+392,297,2025-08-12,Pix,Entregue
+393,177,2026-03-10,Boleto,Entregue
+394,479,2025-03-03,Pix,Cancelado
+395,147,2025-02-02,Cartão,Entregue
+396,393,2025-05-19,Boleto,Em Transporte
+397,192,2026-03-07,Cartão,Cancelado
+398,193,2026-01-22,Pix,Em Transporte
+399,335,2025-05-17,Cartão,Entregue
+400,276,2025-07-02,Cartão,Em Transporte
+401,373,2025-05-11,Pix,Entregue
+402,153,2025-01-24,Cartão,Em Transporte
+403,273,2026-03-11,Cartão,Entregue
+404,236,2025-09-11,Cartão,Entregue
+405,97,2025-10-10,Boleto,Entregue
+406,415,2025-02-02,Boleto,Cancelado
+407,124,2025-01-17,Pix,Entregue
+408,305,2025-04-14,Pix,Cancelado
+409,126,2025-02-19,Boleto,Entregue
+410,225,2026-02-16,Pix,Em Transporte
+411,387,2025-08-11,Pix,Entregue
+412,149,2026-05-31,Pix,Em Transporte
+413,296,2025-11-23,Boleto,Em Transporte
+414,122,2025-11-25,Cartão,Entregue
+415,114,2026-06-18,Cartão,Cancelado
+416,32,2025-10-09,Boleto,Em Transporte
+417,321,2025-06-29,Boleto,Cancelado
+418,25,2026-05-23,Cartão,Em Transporte
+419,403,2026-01-26,Boleto,Cancelado
+420,210,2026-03-03,Pix,Cancelado
+421,95,2026-01-21,Boleto,Cancelado
+422,435,2025-09-04,Pix,Cancelado
+423,413,2025-05-28,Cartão,Entregue
+424,496,2026-02-27,Cartão,Em Transporte
+425,199,2025-05-18,Pix,Cancelado
+426,170,2025-07-28,Boleto,Entregue
+427,434,2026-04-06,Cartão,Entregue
+428,27,2025-07-15,Cartão,Cancelado
+429,448,2025-02-10,Pix,Entregue
+430,246,2025-08-11,Pix,Cancelado
+431,490,2025-11-07,Pix,Entregue
+432,493,2025-07-14,Boleto,Entregue
+433,469,2026-05-06,Pix,Em Transporte
+434,204,2025-07-29,Pix,Em Transporte
+435,398,2025-11-26,Cartão,Cancelado
+436,274,2026-04-23,Boleto,Cancelado
+437,134,2025-11-12,Cartão,Em Transporte
+438,239,2026-05-25,Pix,Em Transporte
+439,390,2026-04-26,Cartão,Entregue
+440,161,2026-01-15,Cartão,Entregue
+441,380,2025-08-15,Pix,Entregue
+442,284,2025-09-25,Boleto,Em Transporte
+443,152,2026-03-04,Pix,Entregue
+444,118,2025-12-04,Cartão,Em Transporte
+445,256,2025-09-09,Boleto,Em Transporte
+446,132,2025-12-12,Cartão,Em Transporte
+447,236,2026-05-18,Pix,Em Transporte
+448,87,2025-12-27,Pix,Em Transporte
+449,95,2026-05-16,Boleto,Em Transporte
+450,269,2025-03-02,Pix,Entregue
+451,392,2025-02-19,Pix,Cancelado
+452,432,2025-05-21,Boleto,Entregue
+453,363,2025-03-11,Pix,Entregue
+454,259,2025-08-12,Cartão,Cancelado
+455,317,2025-03-03,Boleto,Em Transporte
+456,338,2026-05-10,Cartão,Entregue
+457,273,2025-01-07,Boleto,Cancelado
+458,9,2025-01-13,Boleto,Em Transporte
+459,275,2025-10-09,Cartão,Entregue
+460,417,2026-05-30,Boleto,Em Transporte
+461,413,2026-03-17,Pix,Entregue
+462,269,2025-04-09,Pix,Entregue
+463,318,2025-07-16,Boleto,Cancelado
+464,137,2025-12-29,Cartão,Entregue
+465,492,2026-01-18,Cartão,Cancelado
+466,357,2025-09-07,Pix,Cancelado
+467,335,2025-03-24,Boleto,Entregue
+468,208,2025-04-06,Cartão,Cancelado
+469,29,2026-05-03,Boleto,Entregue
+470,43,2025-06-25,Cartão,Cancelado
+471,290,2025-12-06,Pix,Em Transporte
+472,118,2025-02-13,Pix,Em Transporte
+473,139,2026-05-02,Pix,Entregue
+474,461,2025-10-15,Boleto,Em Transporte
+475,92,2025-02-03,Cartão,Entregue
+476,301,2025-08-01,Pix,Em Transporte
+477,476,2026-02-12,Pix,Cancelado
+478,289,2025-06-16,Pix,Em Transporte
+479,347,2026-02-03,Boleto,Cancelado
+480,387,2026-01-29,Boleto,Entregue
+481,257,2025-03-22,Boleto,Cancelado
+482,51,2025-02-24,Cartão,Entregue
+483,175,2025-03-19,Boleto,Em Transporte
+484,497,2026-02-11,Cartão,Entregue
+485,402,2025-10-07,Cartão,Cancelado
+486,183,2025-08-22,Boleto,Cancelado
+487,96,2026-03-19,Boleto,Em Transporte
+488,44,2026-01-25,Boleto,Cancelado
+489,366,2025-09-10,Pix,Entregue
+490,79,2025-10-02,Cartão,Em Transporte
+491,379,2025-06-07,Cartão,Cancelado
+492,55,2026-01-05,Pix,Entregue
+493,228,2025-11-12,Cartão,Cancelado
+494,68,2025-04-15,Pix,Entregue
+495,230,2026-03-18,Boleto,Em Transporte
+496,209,2026-06-09,Pix,Entregue
+497,182,2025-04-02,Boleto,Entregue
+498,443,2025-11-29,Cartão,Entregue
+499,212,2025-10-26,Cartão,Entregue
+500,293,2025-09-06,Boleto,Entregue
+501,87,2026-01-25,Pix,Cancelado
+502,138,2025-11-05,Cartão,Entregue
+503,86,2025-03-06,Cartão,Cancelado
+504,154,2026-03-08,Cartão,Entregue
+505,129,2026-01-05,Pix,Em Transporte
+506,305,2026-05-23,Boleto,Entregue
+507,55,2026-04-14,Pix,Cancelado
+508,486,2025-01-07,Cartão,Cancelado
+509,412,2026-01-25,Cartão,Cancelado
+510,221,2025-12-09,Boleto,Em Transporte
+511,154,2025-05-20,Cartão,Em Transporte
+512,246,2025-07-25,Cartão,Entregue
+513,496,2026-02-12,Cartão,Cancelado
+514,496,2026-05-18,Boleto,Entregue
+515,193,2025-11-30,Cartão,Cancelado
+516,59,2026-01-09,Boleto,Entregue
+517,350,2025-07-04,Boleto,Entregue
+518,483,2026-04-18,Boleto,Entregue
+519,409,2026-03-25,Cartão,Em Transporte
+520,420,2025-03-12,Cartão,Em Transporte
+521,72,2026-05-27,Boleto,Cancelado
+522,130,2025-09-05,Boleto,Entregue
+523,405,2026-03-10,Cartão,Entregue
+524,307,2026-04-05,Cartão,Em Transporte
+525,274,2026-02-15,Boleto,Em Transporte
+526,279,2026-03-05,Pix,Cancelado
+527,56,2025-03-29,Pix,Em Transporte
+528,86,2025-12-30,Boleto,Em Transporte
+529,289,2025-02-15,Boleto,Em Transporte
+530,496,2026-02-14,Cartão,Cancelado
+531,6,2025-04-19,Pix,Cancelado
+532,262,2025-08-16,Boleto,Em Transporte
+533,229,2025-08-15,Cartão,Cancelado
+534,396,2026-04-20,Boleto,Em Transporte
+535,78,2026-05-28,Cartão,Entregue
+536,54,2026-05-10,Cartão,Cancelado
+537,60,2025-03-29,Boleto,Entregue
+538,160,2025-12-23,Cartão,Cancelado
+539,267,2025-07-31,Cartão,Cancelado
+540,50,2026-05-03,Cartão,Em Transporte
+541,164,2026-04-09,Pix,Cancelado
+542,415,2025-02-15,Boleto,Entregue
+543,435,2025-01-24,Cartão,Em Transporte
+544,347,2025-04-22,Pix,Em Transporte
+545,265,2025-09-07,Pix,Em Transporte
+546,170,2025-06-13,Boleto,Cancelado
+547,119,2026-04-19,Cartão,Em Transporte
+548,96,2025-07-08,Boleto,Em Transporte
+549,203,2026-03-19,Pix,Em Transporte
+550,231,2025-07-22,Boleto,Cancelado
+551,3,2026-02-03,Boleto,Entregue
+552,143,2025-07-30,Boleto,Entregue
+553,410,2025-04-15,Boleto,Entregue
+554,167,2026-01-10,Pix,Cancelado
+555,135,2025-04-27,Boleto,Cancelado
+556,495,2026-06-25,Boleto,Cancelado
+557,313,2026-02-02,Cartão,Em Transporte
+558,179,2025-04-27,Cartão,Cancelado
+559,417,2025-06-26,Boleto,Em Transporte
+560,471,2025-11-01,Boleto,Em Transporte
+561,345,2025-03-28,Pix,Cancelado
+562,123,2025-05-01,Cartão,Entregue
+563,192,2025-07-07,Boleto,Entregue
+564,199,2026-06-08,Cartão,Em Transporte
+565,295,2025-05-22,Cartão,Cancelado
+566,250,2025-07-10,Boleto,Em Transporte
+567,285,2025-06-27,Pix,Cancelado
+568,72,2025-10-23,Pix,Cancelado
+569,318,2026-04-07,Pix,Cancelado
+570,249,2025-01-10,Pix,Entregue
+571,494,2026-01-29,Boleto,Em Transporte
+572,210,2026-05-22,Boleto,Cancelado
+573,364,2026-03-02,Cartão,Cancelado
+574,43,2025-06-21,Boleto,Entregue
+575,150,2025-08-14,Pix,Cancelado
+576,276,2025-08-19,Cartão,Entregue
+577,290,2026-04-14,Boleto,Cancelado
+578,58,2026-06-08,Boleto,Entregue
+579,397,2025-10-02,Boleto,Cancelado
+580,390,2025-02-12,Boleto,Cancelado
+581,218,2025-08-12,Pix,Em Transporte
+582,153,2025-09-11,Pix,Cancelado
+583,179,2025-09-27,Pix,Cancelado
+584,398,2025-05-01,Pix,Entregue
+585,441,2025-12-26,Boleto,Em Transporte
+586,85,2026-03-15,Boleto,Entregue
+587,417,2025-07-31,Pix,Entregue
+588,273,2025-12-26,Cartão,Em Transporte
+589,166,2025-06-22,Boleto,Cancelado
+590,294,2025-10-24,Cartão,Em Transporte
+591,70,2025-04-08,Cartão,Entregue
+592,444,2025-10-11,Boleto,Entregue
+593,128,2025-05-16,Pix,Em Transporte
+594,425,2025-11-26,Pix,Em Transporte
+595,251,2026-02-07,Pix,Em Transporte
+596,322,2025-10-03,Cartão,Cancelado
+597,39,2026-04-08,Boleto,Entregue
+598,264,2026-02-17,Boleto,Cancelado
+599,233,2026-01-13,Cartão,Cancelado
+600,445,2025-01-03,Boleto,Entregue
+601,326,2026-04-15,Boleto,Em Transporte
+602,436,2026-01-02,Pix,Em Transporte
+603,112,2026-02-12,Cartão,Entregue
+604,138,2026-05-22,Cartão,Cancelado
+605,281,2025-12-12,Boleto,Entregue
+606,404,2026-05-12,Cartão,Em Transporte
+607,24,2025-02-19,Pix,Em Transporte
+608,9,2026-04-16,Pix,Entregue
+609,234,2026-03-28,Pix,Cancelado
+610,353,2025-07-27,Pix,Em Transporte
+611,82,2025-11-06,Cartão,Entregue
+612,129,2026-01-05,Pix,Cancelado
+613,27,2025-06-19,Cartão,Em Transporte
+614,372,2025-11-09,Boleto,Entregue
+615,336,2026-03-16,Pix,Em Transporte
+616,1,2025-04-08,Pix,Cancelado
+617,68,2025-03-21,Boleto,Entregue
+618,349,2026-06-16,Cartão,Entregue
+619,357,2025-01-09,Cartão,Entregue
+620,356,2026-03-09,Pix,Cancelado
+621,118,2025-03-14,Cartão,Entregue
+622,53,2025-04-15,Cartão,Cancelado
+623,71,2025-11-03,Cartão,Entregue
+624,36,2025-05-27,Boleto,Em Transporte
+625,313,2025-01-09,Boleto,Entregue
+626,180,2026-03-27,Boleto,Entregue
+627,471,2025-06-05,Cartão,Em Transporte
+628,441,2026-03-30,Pix,Entregue
+629,72,2025-04-13,Pix,Em Transporte
+630,180,2026-01-29,Cartão,Cancelado
+631,127,2025-05-24,Cartão,Em Transporte
+632,128,2025-03-28,Boleto,Em Transporte
+633,399,2025-10-19,Boleto,Entregue
+634,106,2025-11-05,Boleto,Em Transporte
+635,97,2026-06-06,Boleto,Cancelado
+636,331,2025-10-30,Pix,Entregue
+637,198,2026-05-22,Pix,Entregue
+638,327,2026-05-27,Boleto,Entregue
+639,456,2026-06-25,Pix,Cancelado
+640,68,2025-11-21,Cartão,Em Transporte
+641,188,2026-03-07,Boleto,Em Transporte
+642,391,2025-06-26,Cartão,Entregue
+643,301,2025-01-18,Pix,Entregue
+644,111,2025-09-26,Pix,Entregue
+645,260,2026-02-12,Cartão,Em Transporte
+646,393,2026-05-29,Cartão,Cancelado
+647,43,2026-02-16,Boleto,Em Transporte
+648,143,2025-06-06,Pix,Cancelado
+649,262,2025-03-22,Pix,Entregue
+650,201,2025-12-01,Boleto,Em Transporte
+651,159,2025-03-09,Boleto,Cancelado
+652,30,2025-09-02,Pix,Entregue
+653,60,2026-03-21,Cartão,Em Transporte
+654,159,2025-02-26,Boleto,Em Transporte
+655,62,2025-06-29,Pix,Em Transporte
+656,360,2025-05-21,Pix,Entregue
+657,488,2026-05-24,Cartão,Em Transporte
+658,401,2026-06-14,Boleto,Cancelado
+659,191,2025-06-20,Pix,Em Transporte
+660,376,2025-10-03,Pix,Entregue
+661,414,2025-12-10,Cartão,Cancelado
+662,33,2026-06-21,Cartão,Em Transporte
+663,255,2025-03-20,Cartão,Em Transporte
+664,29,2026-01-04,Cartão,Em Transporte
+665,189,2025-06-20,Pix,Cancelado
+666,458,2025-04-16,Boleto,Em Transporte
+667,117,2025-04-29,Boleto,Em Transporte
+668,23,2025-01-03,Pix,Entregue
+669,242,2025-02-17,Cartão,Cancelado
+670,92,2025-06-03,Pix,Em Transporte
+671,115,2026-03-06,Cartão,Entregue
+672,469,2026-03-03,Boleto,Cancelado
+673,423,2025-10-05,Pix,Em Transporte
+674,62,2026-01-17,Boleto,Em Transporte
+675,92,2025-02-23,Pix,Em Transporte
+676,489,2025-02-17,Cartão,Entregue
+677,444,2026-04-22,Cartão,Cancelado
+678,45,2025-12-02,Boleto,Cancelado
+679,189,2025-01-09,Pix,Cancelado
+680,379,2025-11-08,Boleto,Entregue
+681,189,2026-04-21,Boleto,Cancelado
+682,376,2025-07-20,Boleto,Entregue
+683,4,2025-06-04,Cartão,Entregue
+684,278,2025-08-27,Cartão,Em Transporte
+685,487,2025-01-10,Cartão,Entregue
+686,435,2026-01-21,Boleto,Em Transporte
+687,54,2025-11-11,Pix,Em Transporte
+688,215,2025-09-01,Cartão,Entregue
+689,365,2025-05-26,Cartão,Entregue
+690,472,2025-02-14,Pix,Em Transporte
+691,359,2026-02-27,Cartão,Cancelado
+692,298,2025-03-28,Pix,Em Transporte
+693,327,2025-05-17,Cartão,Entregue
+694,223,2025-03-05,Boleto,Entregue
+695,150,2025-08-31,Cartão,Cancelado
+696,359,2026-02-07,Boleto,Cancelado
+697,232,2025-11-22,Cartão,Entregue
+698,484,2025-03-18,Pix,Entregue
+699,80,2025-04-22,Pix,Entregue
+700,239,2026-04-06,Cartão,Cancelado
+701,275,2025-05-04,Cartão,Entregue
+702,158,2026-04-08,Cartão,Cancelado
+703,47,2025-05-03,Pix,Em Transporte
+704,424,2025-11-08,Boleto,Em Transporte
+705,111,2025-02-11,Cartão,Entregue
+706,365,2025-04-04,Pix,Cancelado
+707,263,2026-02-10,Pix,Em Transporte
+708,134,2025-11-03,Pix,Entregue
+709,438,2026-02-19,Cartão,Em Transporte
+710,49,2025-09-13,Cartão,Entregue
+711,63,2025-05-24,Pix,Entregue
+712,67,2025-08-16,Pix,Cancelado
+713,352,2026-01-17,Boleto,Em Transporte
+714,299,2025-03-28,Boleto,Cancelado
+715,12,2025-03-18,Pix,Entregue
+716,415,2026-03-31,Pix,Entregue
+717,63,2025-12-06,Pix,Cancelado
+718,87,2025-02-21,Boleto,Cancelado
+719,255,2026-02-09,Pix,Cancelado
+720,89,2026-03-13,Cartão,Entregue
+721,141,2025-07-11,Cartão,Cancelado
+722,18,2025-06-02,Boleto,Em Transporte
+723,332,2025-09-09,Cartão,Cancelado
+724,452,2026-02-26,Boleto,Cancelado
+725,45,2025-03-04,Cartão,Cancelado
+726,215,2025-05-21,Pix,Em Transporte
+727,128,2026-06-23,Boleto,Em Transporte
+728,196,2025-01-20,Boleto,Cancelado
+729,279,2026-05-07,Cartão,Cancelado
+730,165,2026-05-30,Cartão,Cancelado
+731,14,2025-07-04,Cartão,Em Transporte
+732,16,2025-08-13,Cartão,Entregue
+733,272,2026-04-29,Cartão,Em Transporte
+734,499,2025-08-27,Pix,Entregue
+735,337,2025-09-11,Pix,Cancelado
+736,392,2025-02-27,Pix,Em Transporte
+737,182,2026-02-02,Pix,Entregue
+738,304,2025-08-31,Cartão,Em Transporte
+739,468,2026-01-03,Boleto,Entregue
+740,486,2025-12-27,Boleto,Em Transporte
+741,289,2025-05-26,Pix,Cancelado
+742,90,2025-11-13,Cartão,Entregue
+743,29,2025-04-03,Pix,Em Transporte
+744,11,2025-08-13,Boleto,Cancelado
+745,170,2025-01-01,Boleto,Entregue
+746,175,2025-05-14,Boleto,Entregue
+747,31,2025-11-28,Pix,Entregue
+748,397,2025-05-26,Pix,Em Transporte
+749,492,2026-01-09,Pix,Cancelado
+750,301,2026-02-10,Pix,Cancelado
+751,166,2025-11-06,Pix,Entregue
+752,406,2026-03-24,Boleto,Cancelado
+753,90,2025-11-21,Boleto,Em Transporte
+754,115,2026-01-01,Boleto,Em Transporte
+755,194,2025-06-29,Cartão,Em Transporte
+756,66,2025-10-29,Pix,Em Transporte
+757,486,2025-01-02,Boleto,Em Transporte
+758,436,2026-02-05,Boleto,Entregue
+759,309,2025-07-06,Cartão,Em Transporte
+760,328,2025-08-15,Boleto,Entregue
+761,73,2026-05-24,Cartão,Em Transporte
+762,122,2025-03-21,Cartão,Cancelado
+763,326,2025-06-21,Pix,Em Transporte
+764,229,2025-12-10,Pix,Cancelado
+765,128,2025-08-03,Boleto,Entregue
+766,132,2025-12-25,Pix,Em Transporte
+767,25,2025-01-02,Cartão,Cancelado
+768,497,2026-03-06,Pix,Cancelado
+769,452,2026-05-20,Cartão,Cancelado
+770,52,2026-01-20,Cartão,Em Transporte
+771,84,2025-08-19,Cartão,Entregue
+772,151,2025-02-04,Pix,Cancelado
+773,488,2025-09-25,Pix,Entregue
+774,88,2025-12-17,Cartão,Entregue
+775,281,2025-03-18,Pix,Cancelado
+776,361,2026-05-10,Pix,Cancelado
+777,311,2025-06-18,Cartão,Entregue
+778,52,2025-02-24,Cartão,Entregue
+779,210,2025-07-14,Boleto,Em Transporte
+780,339,2025-09-29,Cartão,Cancelado
+781,50,2025-09-01,Pix,Cancelado
+782,79,2026-05-18,Pix,Cancelado
+783,219,2025-01-04,Pix,Cancelado
+784,103,2026-05-07,Pix,Entregue
+785,88,2025-07-31,Boleto,Cancelado
+786,243,2025-03-25,Pix,Cancelado
+787,242,2026-02-12,Cartão,Em Transporte
+788,47,2025-09-29,Boleto,Em Transporte
+789,95,2026-02-01,Cartão,Cancelado
+790,96,2026-01-14,Cartão,Entregue
+791,226,2025-09-27,Cartão,Cancelado
+792,429,2025-08-20,Cartão,Em Transporte
+793,78,2025-03-05,Boleto,Em Transporte
+794,44,2025-04-10,Boleto,Cancelado
+795,498,2026-02-28,Boleto,Entregue
+796,431,2025-03-04,Cartão,Em Transporte
+797,495,2026-03-05,Boleto,Em Transporte
+798,294,2026-05-02,Pix,Cancelado
+799,41,2025-11-03,Cartão,Em Transporte
+800,258,2025-02-05,Boleto,Em Transporte
+801,62,2025-05-31,Cartão,Entregue
+802,498,2025-06-21,Pix,Entregue
+803,22,2025-05-10,Cartão,Entregue
+804,104,2026-03-22,Boleto,Entregue
+805,164,2025-09-22,Boleto,Entregue
+806,199,2025-03-31,Boleto,Cancelado
+807,439,2025-11-30,Cartão,Em Transporte
+808,470,2026-04-15,Pix,Em Transporte
+809,401,2026-06-20,Cartão,Entregue
+810,77,2026-03-01,Pix,Em Transporte
+811,474,2025-04-13,Pix,Em Transporte
+812,403,2025-04-14,Cartão,Em Transporte
+813,450,2025-12-19,Cartão,Cancelado
+814,336,2026-01-28,Cartão,Em Transporte
+815,20,2026-04-30,Pix,Cancelado
+816,74,2026-02-17,Boleto,Em Transporte
+817,20,2026-02-16,Cartão,Cancelado
+818,26,2025-09-01,Boleto,Cancelado
+819,460,2025-10-03,Cartão,Entregue
+820,419,2025-12-12,Cartão,Cancelado
+821,432,2025-10-15,Cartão,Em Transporte
+822,498,2025-04-11,Pix,Entregue
+823,499,2025-11-04,Boleto,Cancelado
+824,138,2025-11-25,Boleto,Cancelado
+825,97,2025-04-02,Cartão,Entregue
+826,380,2026-02-21,Cartão,Em Transporte
+827,421,2026-01-18,Pix,Em Transporte
+828,34,2025-06-12,Cartão,Em Transporte
+829,207,2026-06-03,Pix,Em Transporte
+830,89,2025-01-30,Pix,Entregue
+831,128,2025-03-01,Pix,Cancelado
+832,471,2025-02-21,Cartão,Em Transporte
+833,141,2025-07-23,Cartão,Cancelado
+834,204,2026-06-02,Boleto,Entregue
+835,124,2025-02-01,Cartão,Cancelado
+836,91,2026-04-02,Cartão,Em Transporte
+837,177,2025-12-25,Pix,Cancelado
+838,146,2025-04-03,Pix,Cancelado
+839,84,2025-02-20,Boleto,Entregue
+840,332,2025-08-15,Pix,Em Transporte
+841,138,2025-07-31,Boleto,Cancelado
+842,11,2026-06-10,Boleto,Entregue
+843,467,2026-05-01,Pix,Em Transporte
+844,308,2025-06-27,Pix,Entregue
+845,312,2025-09-16,Cartão,Em Transporte
+846,217,2025-10-09,Cartão,Cancelado
+847,130,2026-04-16,Pix,Cancelado
+848,347,2025-11-06,Boleto,Em Transporte
+849,300,2026-02-11,Pix,Entregue
+850,340,2026-06-08,Cartão,Em Transporte
+851,153,2025-10-17,Boleto,Entregue
+852,33,2026-05-09,Cartão,Cancelado
+853,442,2025-11-29,Cartão,Cancelado
+854,97,2025-11-02,Pix,Em Transporte
+855,461,2025-09-04,Pix,Em Transporte
+856,339,2026-02-18,Cartão,Em Transporte
+857,370,2025-05-24,Pix,Em Transporte
+858,152,2026-05-25,Cartão,Cancelado
+859,199,2026-02-19,Boleto,Entregue
+860,176,2025-07-14,Boleto,Em Transporte
+861,352,2025-08-16,Boleto,Em Transporte
+862,465,2026-05-03,Boleto,Cancelado
+863,154,2026-06-04,Pix,Em Transporte
+864,151,2025-07-05,Pix,Cancelado
+865,380,2025-05-12,Cartão,Em Transporte
+866,485,2025-07-07,Boleto,Cancelado
+867,114,2025-04-02,Cartão,Entregue
+868,216,2025-11-11,Cartão,Cancelado
+869,300,2025-09-24,Cartão,Cancelado
+870,241,2025-05-01,Pix,Em Transporte
+871,242,2025-03-14,Pix,Em Transporte
+872,445,2025-05-03,Boleto,Cancelado
+873,212,2025-11-02,Pix,Entregue
+874,103,2025-05-21,Cartão,Cancelado
+875,74,2026-04-14,Cartão,Em Transporte
+876,399,2025-07-04,Pix,Cancelado
+877,324,2025-12-07,Pix,Cancelado
+878,3,2025-03-01,Cartão,Cancelado
+879,390,2025-08-03,Pix,Em Transporte
+880,251,2025-06-12,Pix,Entregue
+881,325,2026-03-21,Cartão,Cancelado
+882,495,2026-03-16,Cartão,Cancelado
+883,20,2025-01-05,Boleto,Entregue
+884,487,2026-01-18,Pix,Cancelado
+885,10,2025-07-15,Boleto,Entregue
+886,116,2025-09-12,Boleto,Cancelado
+887,67,2025-11-16,Pix,Cancelado
+888,302,2026-05-31,Cartão,Entregue
+889,422,2025-03-08,Pix,Cancelado
+890,234,2025-10-25,Boleto,Em Transporte
+891,173,2026-06-21,Cartão,Em Transporte
+892,176,2025-05-18,Cartão,Cancelado
+893,85,2025-07-12,Cartão,Entregue
+894,115,2025-08-22,Boleto,Entregue
+895,376,2025-08-05,Pix,Em Transporte
+896,87,2026-06-01,Pix,Cancelado
+897,193,2025-02-08,Boleto,Cancelado
+898,305,2025-02-19,Pix,Em Transporte
+899,335,2025-04-21,Pix,Entregue
+900,214,2025-04-29,Cartão,Cancelado
+901,281,2025-05-07,Cartão,Cancelado
+902,106,2025-06-06,Boleto,Em Transporte
+903,155,2025-01-10,Cartão,Em Transporte
+904,340,2025-04-14,Boleto,Cancelado
+905,215,2025-05-21,Pix,Em Transporte
+906,145,2025-05-01,Pix,Entregue
+907,102,2026-05-25,Boleto,Entregue
+908,426,2025-09-27,Boleto,Entregue
+909,361,2026-01-02,Cartão,Cancelado
+910,21,2025-06-14,Boleto,Cancelado
+911,353,2025-08-01,Cartão,Cancelado
+912,2,2025-08-29,Pix,Em Transporte
+913,465,2025-04-02,Pix,Em Transporte
+914,77,2026-05-21,Pix,Em Transporte
+915,371,2025-03-18,Boleto,Entregue
+916,330,2025-09-20,Pix,Cancelado
+917,136,2025-10-31,Cartão,Entregue
+918,417,2025-04-13,Pix,Entregue
+919,185,2025-10-25,Boleto,Cancelado
+920,379,2026-03-13,Pix,Entregue
+921,5,2025-02-16,Pix,Em Transporte
+922,169,2025-06-24,Cartão,Cancelado
+923,450,2025-10-02,Boleto,Entregue
+924,418,2026-01-17,Cartão,Entregue
+925,206,2025-04-27,Cartão,Cancelado
+926,428,2025-10-06,Cartão,Em Transporte
+927,410,2026-05-05,Cartão,Em Transporte
+928,58,2025-06-20,Pix,Em Transporte
+929,483,2025-03-02,Pix,Entregue
+930,467,2026-03-03,Boleto,Cancelado
+931,93,2026-03-25,Boleto,Cancelado
+932,314,2026-01-03,Pix,Em Transporte
+933,248,2025-05-14,Cartão,Entregue
+934,226,2026-02-26,Pix,Entregue
+935,336,2025-09-25,Cartão,Entregue
+936,393,2026-06-22,Boleto,Em Transporte
+937,490,2025-08-18,Boleto,Cancelado
+938,268,2026-06-16,Boleto,Em Transporte
+939,222,2025-04-08,Boleto,Em Transporte
+940,247,2025-09-12,Cartão,Em Transporte
+941,77,2026-01-30,Boleto,Em Transporte
+942,6,2025-02-25,Boleto,Entregue
+943,435,2026-06-02,Cartão,Cancelado
+944,39,2025-06-19,Cartão,Cancelado
+945,170,2025-09-04,Cartão,Entregue
+946,115,2026-06-04,Boleto,Em Transporte
+947,207,2026-01-23,Pix,Entregue
+948,228,2026-04-16,Boleto,Cancelado
+949,439,2025-04-01,Cartão,Cancelado
+950,61,2025-11-20,Cartão,Em Transporte
+951,53,2025-01-19,Cartão,Cancelado
+952,286,2025-02-06,Boleto,Entregue
+953,406,2025-04-04,Boleto,Em Transporte
+954,456,2025-11-08,Boleto,Em Transporte
+955,336,2025-07-31,Boleto,Cancelado
+956,187,2025-12-16,Pix,Entregue
+957,170,2026-04-11,Boleto,Em Transporte
+958,367,2026-04-30,Boleto,Cancelado
+959,59,2026-04-09,Pix,Em Transporte
+960,2,2025-08-16,Cartão,Cancelado
+961,281,2025-10-26,Boleto,Cancelado
+962,24,2025-04-19,Pix,Cancelado
+963,421,2025-05-24,Boleto,Em Transporte
+964,55,2026-02-24,Cartão,Em Transporte
+965,97,2025-07-20,Pix,Cancelado
+966,235,2025-08-09,Pix,Em Transporte
+967,56,2025-12-13,Cartão,Entregue
+968,396,2025-05-07,Cartão,Cancelado
+969,69,2026-06-01,Cartão,Entregue
+970,284,2025-02-19,Cartão,Em Transporte
+971,474,2026-05-10,Boleto,Entregue
+972,375,2025-06-27,Pix,Entregue
+973,337,2026-02-01,Boleto,Em Transporte
+974,259,2025-11-26,Cartão,Cancelado
+975,141,2025-09-12,Cartão,Cancelado
+976,232,2025-10-29,Pix,Entregue
+977,309,2026-02-27,Boleto,Em Transporte
+978,154,2026-06-09,Boleto,Em Transporte
+979,365,2025-11-18,Boleto,Em Transporte
+980,103,2025-08-11,Pix,Em Transporte
+981,352,2025-10-25,Cartão,Em Transporte
+982,364,2025-05-16,Boleto,Entregue
+983,278,2026-05-31,Boleto,Em Transporte
+984,364,2025-11-27,Pix,Cancelado
+985,299,2026-05-07,Boleto,Em Transporte
+986,346,2026-03-04,Boleto,Em Transporte
+987,450,2025-10-20,Cartão,Entregue
+988,55,2026-06-20,Pix,Cancelado
+989,28,2025-05-29,Boleto,Entregue
+990,137,2025-07-24,Pix,Cancelado
+991,75,2025-09-14,Pix,Em Transporte
+992,105,2025-10-30,Boleto,Entregue
+993,417,2026-01-03,Cartão,Entregue
+994,381,2025-08-18,Boleto,Em Transporte
+995,122,2026-02-03,Boleto,Em Transporte
+996,355,2025-10-22,Boleto,Entregue
+997,199,2026-01-26,Cartão,Em Transporte
+998,495,2025-11-17,Boleto,Entregue
+999,381,2025-01-14,Cartão,Entregue
+1000,425,2026-03-30,Pix,Em Transporte
+1001,387,2026-01-12,Boleto,Em Transporte
+1002,398,2025-07-21,Boleto,Entregue
+1003,230,2025-10-29,Pix,Em Transporte
+1004,96,2025-03-18,Pix,Em Transporte
+1005,62,2026-06-11,Cartão,Entregue
+1006,143,2026-03-15,Boleto,Cancelado
+1007,83,2025-05-14,Boleto,Cancelado
+1008,170,2025-01-06,Cartão,Em Transporte
+1009,21,2025-06-08,Pix,Cancelado
+1010,397,2025-02-22,Boleto,Em Transporte
+1011,252,2025-11-05,Boleto,Em Transporte
+1012,38,2026-01-02,Boleto,Cancelado
+1013,113,2026-06-23,Pix,Em Transporte
+1014,403,2025-03-11,Boleto,Entregue
+1015,279,2026-03-02,Boleto,Cancelado
+1016,179,2025-04-05,Pix,Entregue
+1017,170,2025-12-06,Cartão,Cancelado
+1018,487,2025-08-12,Boleto,Em Transporte
+1019,288,2026-05-02,Boleto,Entregue
+1020,343,2025-04-28,Cartão,Cancelado
+1021,464,2025-09-04,Boleto,Em Transporte
+1022,491,2025-09-07,Pix,Em Transporte
+1023,196,2025-11-25,Pix,Cancelado
+1024,277,2025-09-20,Boleto,Cancelado
+1025,467,2025-01-26,Boleto,Cancelado
+1026,412,2026-06-11,Boleto,Cancelado
+1027,23,2026-05-14,Cartão,Em Transporte
+1028,165,2025-07-17,Boleto,Entregue
+1029,86,2025-04-09,Boleto,Em Transporte
+1030,321,2025-01-08,Pix,Entregue
+1031,443,2025-08-07,Boleto,Cancelado
+1032,106,2025-04-17,Boleto,Em Transporte
+1033,332,2026-03-22,Pix,Em Transporte
+1034,13,2025-06-07,Cartão,Em Transporte
+1035,20,2025-12-06,Pix,Entregue
+1036,92,2025-02-25,Cartão,Em Transporte
+1037,295,2025-03-14,Pix,Cancelado
+1038,199,2026-02-22,Cartão,Em Transporte
+1039,222,2026-02-19,Cartão,Entregue
+1040,345,2026-02-03,Pix,Em Transporte
+1041,329,2025-01-07,Boleto,Em Transporte
+1042,388,2025-03-06,Boleto,Em Transporte
+1043,359,2025-02-16,Pix,Cancelado
+1044,55,2026-05-30,Cartão,Em Transporte
+1045,311,2025-11-05,Pix,Cancelado
+1046,196,2026-03-25,Cartão,Em Transporte
+1047,243,2025-02-01,Pix,Em Transporte
+1048,70,2025-08-14,Boleto,Cancelado
+1049,492,2025-10-30,Boleto,Entregue
+1050,347,2025-11-02,Boleto,Em Transporte
+1051,491,2026-01-18,Pix,Em Transporte
+1052,64,2025-05-25,Pix,Entregue
+1053,276,2026-02-08,Boleto,Entregue
+1054,108,2025-11-09,Boleto,Em Transporte
+1055,109,2025-12-19,Cartão,Em Transporte
+1056,73,2026-06-09,Pix,Entregue
+1057,316,2025-08-15,Cartão,Entregue
+1058,93,2025-04-28,Boleto,Em Transporte
+1059,436,2025-02-25,Boleto,Cancelado
+1060,149,2025-03-16,Boleto,Entregue
+1061,51,2025-09-14,Pix,Em Transporte
+1062,488,2026-05-14,Cartão,Cancelado
+1063,344,2025-05-12,Boleto,Entregue
+1064,146,2025-04-13,Boleto,Entregue
+1065,163,2025-07-18,Cartão,Cancelado
+1066,316,2025-12-03,Boleto,Cancelado
+1067,290,2025-06-06,Boleto,Cancelado
+1068,491,2025-11-20,Cartão,Entregue
+1069,161,2025-01-05,Pix,Entregue
+1070,142,2026-03-23,Cartão,Entregue
+1071,450,2025-12-06,Cartão,Cancelado
+1072,184,2026-04-02,Cartão,Cancelado
+1073,90,2025-04-22,Boleto,Em Transporte
+1074,431,2025-03-25,Cartão,Entregue
+1075,135,2025-07-21,Boleto,Em Transporte
+1076,373,2025-03-20,Pix,Entregue
+1077,324,2026-06-04,Pix,Em Transporte
+1078,394,2026-02-19,Boleto,Entregue
+1079,283,2025-02-07,Cartão,Em Transporte
+1080,335,2026-04-29,Pix,Cancelado
+1081,115,2026-02-06,Boleto,Em Transporte
+1082,69,2025-10-25,Cartão,Em Transporte
+1083,47,2026-06-07,Cartão,Cancelado
+1084,6,2026-05-30,Boleto,Entregue
+1085,388,2025-06-19,Boleto,Entregue
+1086,82,2026-04-02,Pix,Em Transporte
+1087,377,2025-05-30,Boleto,Cancelado
+1088,21,2026-01-03,Pix,Cancelado
+1089,33,2025-08-26,Cartão,Cancelado
+1090,22,2025-08-28,Boleto,Entregue
+1091,465,2026-06-15,Cartão,Cancelado
+1092,470,2026-04-26,Cartão,Entregue
+1093,333,2025-02-10,Cartão,Entregue
+1094,325,2026-06-18,Cartão,Em Transporte
+1095,297,2025-09-27,Boleto,Em Transporte
+1096,193,2025-06-28,Boleto,Cancelado
+1097,301,2026-01-10,Boleto,Entregue
+1098,129,2026-06-14,Cartão,Entregue
+1099,208,2026-06-13,Cartão,Cancelado
+1100,406,2026-05-14,Cartão,Em Transporte
+1101,257,2025-01-07,Pix,Cancelado
+1102,118,2025-06-19,Pix,Em Transporte
+1103,109,2025-10-15,Pix,Entregue
+1104,186,2025-06-11,Boleto,Em Transporte
+1105,339,2025-05-02,Pix,Cancelado
+1106,369,2025-12-05,Pix,Cancelado
+1107,246,2026-05-06,Pix,Em Transporte
+1108,332,2025-06-15,Cartão,Entregue
+1109,23,2025-09-07,Pix,Em Transporte
+1110,69,2025-06-14,Boleto,Em Transporte
+1111,457,2025-02-10,Boleto,Entregue
+1112,86,2025-02-27,Cartão,Entregue
+1113,491,2026-06-14,Cartão,Em Transporte
+1114,450,2025-01-20,Boleto,Em Transporte
+1115,485,2025-10-18,Pix,Entregue
+1116,311,2026-04-05,Cartão,Cancelado
+1117,113,2025-06-24,Cartão,Em Transporte
+1118,407,2025-05-27,Boleto,Entregue
+1119,136,2026-06-08,Pix,Em Transporte
+1120,473,2025-12-17,Cartão,Em Transporte
+1121,118,2025-03-12,Cartão,Cancelado
+1122,56,2025-05-16,Pix,Entregue
+1123,441,2026-06-20,Boleto,Em Transporte
+1124,424,2026-03-06,Pix,Em Transporte
+1125,91,2025-04-09,Cartão,Em Transporte
+1126,450,2025-02-09,Boleto,Em Transporte
+1127,48,2025-05-01,Cartão,Em Transporte
+1128,462,2025-05-14,Boleto,Em Transporte
+1129,460,2025-01-02,Boleto,Em Transporte
+1130,268,2026-03-18,Cartão,Cancelado
+1131,358,2025-02-14,Boleto,Cancelado
+1132,481,2025-08-23,Cartão,Cancelado
+1133,302,2025-12-25,Boleto,Em Transporte
+1134,218,2025-04-11,Pix,Cancelado
+1135,393,2026-05-04,Pix,Entregue
+1136,307,2025-10-18,Boleto,Cancelado
+1137,97,2025-09-21,Pix,Em Transporte
+1138,296,2025-01-08,Boleto,Entregue
+1139,4,2026-06-17,Cartão,Em Transporte
+1140,353,2025-07-30,Cartão,Cancelado
+1141,55,2026-01-06,Pix,Cancelado
+1142,134,2025-09-17,Boleto,Cancelado
+1143,314,2026-01-10,Cartão,Em Transporte
+1144,387,2026-02-11,Pix,Cancelado
+1145,92,2026-05-10,Cartão,Em Transporte
+1146,130,2026-05-11,Cartão,Em Transporte
+1147,397,2025-12-19,Boleto,Cancelado
+1148,438,2025-05-22,Boleto,Entregue
+1149,229,2025-08-24,Boleto,Entregue
+1150,110,2025-04-13,Boleto,Cancelado
+1151,411,2025-12-13,Boleto,Em Transporte
+1152,83,2025-02-23,Cartão,Em Transporte
+1153,412,2025-01-06,Pix,Entregue
+1154,475,2026-04-28,Boleto,Cancelado
+1155,33,2025-04-01,Cartão,Entregue
+1156,41,2026-01-15,Boleto,Entregue
+1157,477,2026-01-29,Cartão,Em Transporte
+1158,147,2026-06-18,Boleto,Em Transporte
+1159,485,2025-02-28,Pix,Em Transporte
+1160,225,2026-05-22,Pix,Entregue
+1161,147,2026-06-15,Pix,Entregue
+1162,265,2026-06-07,Boleto,Entregue
+1163,346,2025-06-23,Pix,Cancelado
+1164,336,2025-09-02,Pix,Entregue
+1165,142,2025-03-30,Cartão,Cancelado
+1166,208,2026-02-09,Boleto,Entregue
+1167,8,2026-06-15,Boleto,Em Transporte
+1168,471,2025-03-12,Pix,Em Transporte
+1169,372,2025-10-19,Boleto,Em Transporte
+1170,178,2025-12-23,Cartão,Entregue
+1171,233,2025-07-19,Cartão,Em Transporte
+1172,134,2025-01-05,Pix,Cancelado
+1173,55,2026-06-03,Boleto,Entregue
+1174,151,2026-05-31,Cartão,Entregue
+1175,490,2026-06-10,Cartão,Em Transporte
+1176,356,2025-09-14,Cartão,Cancelado
+1177,395,2026-05-11,Pix,Cancelado
+1178,349,2026-04-15,Cartão,Em Transporte
+1179,247,2025-01-29,Pix,Cancelado
+1180,196,2025-03-11,Boleto,Entregue
+1181,410,2025-08-24,Cartão,Cancelado
+1182,265,2025-12-28,Boleto,Entregue
+1183,128,2025-09-27,Cartão,Entregue
+1184,345,2026-02-13,Boleto,Cancelado
+1185,284,2025-03-19,Pix,Cancelado
+1186,182,2025-11-18,Pix,Em Transporte
+1187,94,2025-10-03,Boleto,Em Transporte
+1188,256,2025-07-14,Boleto,Entregue
+1189,377,2025-08-29,Pix,Cancelado
+1190,118,2025-07-31,Pix,Entregue
+1191,80,2025-12-31,Pix,Entregue
+1192,347,2025-03-22,Boleto,Cancelado
+1193,392,2025-01-07,Boleto,Entregue
+1194,191,2026-05-09,Boleto,Cancelado
+1195,460,2026-05-20,Boleto,Cancelado
+1196,94,2026-05-18,Boleto,Cancelado
+1197,114,2026-02-12,Boleto,Entregue
+1198,270,2025-02-25,Cartão,Cancelado
+1199,258,2025-02-03,Cartão,Cancelado
+1200,235,2025-06-28,Pix,Em Transporte
+1201,236,2026-06-15,Cartão,Em Transporte
+1202,7,2025-01-09,Boleto,Entregue
+1203,298,2026-01-24,Pix,Cancelado
+1204,314,2026-01-06,Cartão,Entregue
+1205,122,2025-09-27,Cartão,Cancelado
+1206,188,2025-12-18,Pix,Cancelado
+1207,108,2026-03-11,Cartão,Em Transporte
+1208,187,2026-01-17,Cartão,Cancelado
+1209,93,2026-04-07,Boleto,Entregue
+1210,417,2025-08-23,Pix,Em Transporte
+1211,412,2025-10-04,Pix,Em Transporte
+1212,439,2026-03-19,Cartão,Entregue
+1213,410,2025-05-30,Boleto,Entregue
+1214,413,2026-04-30,Pix,Entregue
+1215,256,2026-03-08,Pix,Em Transporte
+1216,274,2026-06-14,Boleto,Cancelado
+1217,154,2026-05-14,Cartão,Em Transporte
+1218,204,2025-02-18,Pix,Em Transporte
+1219,31,2025-06-17,Pix,Cancelado
+1220,430,2026-05-03,Boleto,Entregue
+1221,382,2026-04-06,Cartão,Cancelado
+1222,185,2026-01-05,Boleto,Em Transporte
+1223,177,2025-09-21,Pix,Cancelado
+1224,180,2025-05-05,Boleto,Em Transporte
+1225,296,2025-07-23,Boleto,Em Transporte
+1226,400,2025-06-28,Cartão,Cancelado
+1227,345,2025-11-29,Boleto,Cancelado
+1228,456,2026-04-03,Pix,Cancelado
+1229,238,2025-10-21,Boleto,Entregue
+1230,328,2025-06-21,Cartão,Cancelado
+1231,435,2026-02-19,Pix,Entregue
+1232,176,2025-06-15,Pix,Cancelado
+1233,335,2025-11-21,Cartão,Em Transporte
+1234,310,2025-10-01,Boleto,Cancelado
+1235,455,2025-10-05,Cartão,Cancelado
+1236,495,2026-06-18,Cartão,Cancelado
+1237,95,2025-06-21,Pix,Entregue
+1238,339,2025-08-29,Cartão,Em Transporte
+1239,108,2025-03-23,Pix,Cancelado
+1240,49,2025-04-16,Pix,Cancelado
+1241,14,2025-02-25,Cartão,Em Transporte
+1242,54,2025-03-27,Cartão,Em Transporte
+1243,44,2025-06-09,Boleto,Cancelado
+1244,118,2025-11-13,Pix,Em Transporte
+1245,227,2025-10-18,Boleto,Entregue
+1246,270,2025-05-15,Pix,Entregue
+1247,340,2025-02-05,Cartão,Cancelado
+1248,240,2026-05-03,Boleto,Cancelado
+1249,70,2026-04-01,Boleto,Em Transporte
+1250,303,2025-07-01,Boleto,Cancelado
+1251,269,2026-03-22,Boleto,Em Transporte
+1252,466,2025-11-14,Cartão,Cancelado
+1253,413,2025-08-21,Pix,Cancelado
+1254,188,2025-11-12,Cartão,Cancelado
+1255,156,2025-06-09,Pix,Entregue
+1256,418,2026-06-20,Pix,Cancelado
+1257,241,2025-10-21,Boleto,Entregue
+1258,485,2026-05-19,Cartão,Cancelado
+1259,393,2025-01-10,Cartão,Cancelado
+1260,408,2025-08-25,Pix,Em Transporte
+1261,97,2026-01-18,Cartão,Em Transporte
+1262,203,2026-03-24,Pix,Entregue
+1263,425,2026-02-04,Cartão,Entregue
+1264,41,2025-09-27,Cartão,Em Transporte
+1265,265,2025-09-03,Boleto,Em Transporte
+1266,146,2025-10-06,Boleto,Em Transporte
+1267,212,2025-10-03,Pix,Entregue
+1268,70,2025-07-06,Cartão,Entregue
+1269,317,2026-04-12,Cartão,Cancelado
+1270,97,2026-05-19,Cartão,Entregue
+1271,26,2025-06-05,Boleto,Entregue
+1272,498,2025-07-10,Pix,Cancelado
+1273,65,2025-10-03,Boleto,Cancelado
+1274,120,2025-01-09,Pix,Entregue
+1275,253,2025-01-16,Pix,Cancelado
+1276,160,2026-03-07,Cartão,Cancelado
+1277,357,2026-04-20,Pix,Cancelado
+1278,432,2025-03-24,Pix,Entregue
+1279,398,2025-09-30,Cartão,Entregue
+1280,93,2026-04-27,Pix,Cancelado
+1281,425,2026-01-26,Pix,Entregue
+1282,198,2025-09-12,Cartão,Entregue
+1283,102,2025-02-04,Cartão,Em Transporte
+1284,267,2025-04-07,Boleto,Entregue
+1285,200,2026-04-30,Boleto,Cancelado
+1286,82,2025-11-27,Boleto,Em Transporte
+1287,382,2025-02-13,Boleto,Em Transporte
+1288,130,2025-05-06,Cartão,Em Transporte
+1289,102,2025-11-02,Cartão,Entregue
+1290,499,2025-08-12,Pix,Entregue
+1291,167,2026-03-21,Pix,Entregue
+1292,300,2025-10-10,Pix,Cancelado
+1293,5,2025-09-06,Pix,Em Transporte
+1294,353,2026-05-02,Boleto,Entregue
+1295,395,2026-01-16,Pix,Entregue
+1296,256,2025-06-11,Pix,Em Transporte
+1297,477,2025-12-13,Boleto,Entregue
+1298,183,2025-03-03,Boleto,Entregue
+1299,65,2025-04-20,Cartão,Entregue
+1300,286,2025-11-21,Boleto,Cancelado
+1301,376,2026-03-26,Pix,Entregue
+1302,184,2026-01-22,Boleto,Entregue
+1303,461,2025-09-14,Pix,Cancelado
+1304,287,2026-03-25,Cartão,Em Transporte
+1305,98,2026-05-17,Boleto,Entregue
+1306,166,2025-12-23,Boleto,Cancelado
+1307,445,2025-10-09,Boleto,Em Transporte
+1308,36,2025-06-14,Boleto,Entregue
+1309,152,2026-04-06,Cartão,Em Transporte
+1310,233,2026-01-11,Pix,Em Transporte
+1311,195,2026-06-03,Boleto,Entregue
+1312,318,2025-01-20,Cartão,Em Transporte
+1313,165,2025-09-02,Boleto,Entregue
+1314,98,2026-02-01,Boleto,Em Transporte
+1315,393,2026-05-25,Boleto,Entregue
+1316,166,2025-10-17,Cartão,Em Transporte
+1317,57,2025-11-26,Pix,Em Transporte
+1318,23,2025-03-10,Pix,Entregue
+1319,104,2025-02-02,Pix,Cancelado
+1320,51,2025-07-16,Pix,Em Transporte
+1321,337,2026-02-02,Cartão,Em Transporte
+1322,26,2025-09-20,Cartão,Entregue
+1323,7,2025-03-14,Pix,Em Transporte
+1324,476,2026-05-19,Pix,Cancelado
+1325,185,2025-03-04,Boleto,Em Transporte
+1326,421,2026-03-02,Cartão,Em Transporte
+1327,422,2025-03-01,Boleto,Cancelado
+1328,376,2025-02-11,Pix,Cancelado
+1329,484,2025-03-21,Pix,Em Transporte
+1330,52,2025-04-10,Boleto,Entregue
+1331,98,2026-01-30,Pix,Em Transporte
+1332,292,2025-09-12,Boleto,Entregue
+1333,383,2026-03-02,Pix,Em Transporte
+1334,346,2026-01-02,Cartão,Em Transporte
+1335,453,2026-03-14,Pix,Entregue
+1336,282,2025-07-04,Cartão,Em Transporte
+1337,337,2025-12-12,Pix,Em Transporte
+1338,478,2026-03-30,Cartão,Cancelado
+1339,433,2025-11-29,Cartão,Cancelado
+1340,423,2026-03-17,Boleto,Cancelado
+1341,289,2025-09-04,Boleto,Entregue
+1342,393,2026-01-20,Boleto,Em Transporte
+1343,185,2025-09-18,Cartão,Cancelado
+1344,1,2026-02-11,Boleto,Entregue
+1345,306,2025-10-19,Pix,Em Transporte
+1346,456,2025-05-19,Cartão,Entregue
+1347,114,2025-11-04,Pix,Cancelado
+1348,396,2025-01-23,Boleto,Cancelado
+1349,285,2026-06-08,Boleto,Em Transporte
+1350,49,2025-06-08,Pix,Cancelado
+1351,80,2025-12-31,Pix,Cancelado
+1352,456,2026-01-11,Boleto,Entregue
+1353,132,2025-08-27,Cartão,Entregue
+1354,292,2026-02-14,Pix,Em Transporte
+1355,371,2025-03-21,Cartão,Cancelado
+1356,250,2025-06-27,Boleto,Em Transporte
+1357,305,2025-04-08,Boleto,Cancelado
+1358,375,2025-02-08,Boleto,Cancelado
+1359,400,2025-03-22,Pix,Cancelado
+1360,451,2025-12-23,Cartão,Cancelado
+1361,446,2025-05-04,Pix,Em Transporte
+1362,325,2025-01-12,Boleto,Cancelado
+1363,157,2025-02-25,Boleto,Entregue
+1364,277,2025-11-23,Boleto,Entregue
+1365,258,2025-12-01,Boleto,Entregue
+1366,26,2025-06-06,Boleto,Em Transporte
+1367,498,2026-02-07,Cartão,Em Transporte
+1368,47,2026-06-01,Pix,Cancelado
+1369,403,2025-10-24,Cartão,Entregue
+1370,173,2025-05-16,Pix,Cancelado
+1371,281,2025-02-20,Cartão,Cancelado
+1372,205,2025-03-29,Boleto,Cancelado
+1373,391,2025-05-14,Pix,Cancelado
+1374,250,2025-07-22,Cartão,Em Transporte
+1375,288,2025-07-20,Boleto,Em Transporte
+1376,127,2026-06-21,Pix,Entregue
+1377,398,2025-09-30,Cartão,Cancelado
+1378,58,2025-04-02,Boleto,Cancelado
+1379,188,2026-03-10,Cartão,Entregue
+1380,177,2025-11-25,Boleto,Em Transporte
+1381,395,2025-01-25,Cartão,Entregue
+1382,316,2025-12-25,Cartão,Em Transporte
+1383,226,2025-05-30,Pix,Entregue
+1384,351,2025-07-24,Cartão,Entregue
+1385,58,2025-03-29,Boleto,Entregue
+1386,486,2025-09-06,Boleto,Entregue
+1387,8,2025-10-22,Cartão,Em Transporte
+1388,157,2025-04-24,Cartão,Cancelado
+1389,170,2025-01-24,Pix,Em Transporte
+1390,105,2025-08-05,Boleto,Em Transporte
+1391,281,2025-09-22,Cartão,Em Transporte
+1392,356,2025-05-25,Boleto,Em Transporte
+1393,193,2025-01-19,Boleto,Em Transporte
+1394,23,2026-06-24,Cartão,Entregue
+1395,146,2025-03-03,Pix,Em Transporte
+1396,28,2025-10-05,Cartão,Em Transporte
+1397,35,2025-01-09,Cartão,Em Transporte
+1398,340,2025-10-05,Boleto,Cancelado
+1399,10,2025-04-21,Cartão,Em Transporte
+1400,119,2026-01-31,Cartão,Em Transporte
+1401,463,2025-04-12,Cartão,Cancelado
+1402,96,2025-04-01,Pix,Em Transporte
+1403,288,2026-04-14,Boleto,Entregue
+1404,127,2025-02-10,Boleto,Cancelado
+1405,251,2025-12-08,Cartão,Em Transporte
+1406,10,2025-06-10,Cartão,Em Transporte
+1407,182,2025-12-27,Boleto,Cancelado
+1408,257,2025-08-30,Cartão,Entregue
+1409,450,2025-09-21,Cartão,Entregue
+1410,116,2025-10-14,Pix,Cancelado
+1411,337,2026-02-07,Pix,Entregue
+1412,267,2026-01-27,Boleto,Em Transporte
+1413,214,2025-08-21,Pix,Em Transporte
+1414,219,2025-06-06,Cartão,Em Transporte
+1415,230,2025-12-04,Boleto,Entregue
+1416,335,2025-07-31,Pix,Em Transporte
+1417,442,2025-07-27,Pix,Cancelado
+1418,466,2026-06-21,Pix,Cancelado
+1419,336,2025-05-29,Boleto,Entregue
+1420,35,2025-11-22,Boleto,Em Transporte
+1421,95,2025-05-02,Cartão,Entregue
+1422,392,2025-01-31,Cartão,Cancelado
+1423,156,2026-02-26,Cartão,Em Transporte
+1424,78,2025-10-08,Pix,Entregue
+1425,95,2025-05-15,Pix,Em Transporte
+1426,311,2025-10-01,Boleto,Em Transporte
+1427,306,2025-08-25,Pix,Entregue
+1428,184,2025-01-27,Pix,Em Transporte
+1429,69,2026-05-04,Boleto,Em Transporte
+1430,365,2026-04-26,Boleto,Cancelado
+1431,437,2025-07-08,Cartão,Cancelado
+1432,71,2026-05-01,Pix,Entregue
+1433,17,2025-08-20,Cartão,Entregue
+1434,487,2025-10-04,Cartão,Entregue
+1435,388,2025-07-27,Pix,Entregue
+1436,475,2025-07-01,Cartão,Em Transporte
+1437,353,2026-05-17,Cartão,Cancelado
+1438,219,2025-09-10,Cartão,Entregue
+1439,369,2026-01-25,Cartão,Cancelado
+1440,329,2026-06-22,Boleto,Entregue
+1441,56,2026-06-18,Cartão,Cancelado
+1442,450,2025-02-13,Pix,Em Transporte
+1443,377,2026-02-10,Pix,Em Transporte
+1444,265,2026-02-01,Boleto,Entregue
+1445,150,2025-07-14,Cartão,Cancelado
+1446,397,2025-11-08,Cartão,Cancelado
+1447,217,2025-06-20,Cartão,Em Transporte
+1448,354,2025-02-25,Boleto,Entregue
+1449,425,2026-04-20,Boleto,Cancelado
+1450,370,2025-04-03,Boleto,Entregue
+1451,399,2025-07-04,Boleto,Em Transporte
+1452,202,2025-05-19,Cartão,Cancelado
+1453,13,2026-04-07,Pix,Cancelado
+1454,452,2025-07-26,Cartão,Entregue
+1455,166,2025-09-14,Boleto,Em Transporte
+1456,368,2025-06-17,Boleto,Entregue
+1457,59,2025-04-04,Boleto,Cancelado
+1458,44,2026-01-07,Boleto,Em Transporte
+1459,373,2026-01-29,Boleto,Em Transporte
+1460,194,2025-06-13,Boleto,Cancelado
+1461,394,2025-02-14,Pix,Cancelado
+1462,84,2025-06-03,Pix,Entregue
+1463,215,2025-02-22,Cartão,Cancelado
+1464,148,2026-04-02,Boleto,Entregue
+1465,461,2025-05-01,Pix,Entregue
+1466,319,2025-01-04,Cartão,Entregue
+1467,255,2026-04-15,Cartão,Em Transporte
+1468,312,2025-01-06,Cartão,Entregue
+1469,302,2025-08-11,Boleto,Cancelado
+1470,210,2026-04-10,Cartão,Entregue
+1471,126,2025-01-07,Boleto,Cancelado
+1472,26,2025-08-01,Pix,Entregue
+1473,335,2025-02-26,Cartão,Entregue
+1474,438,2025-05-29,Pix,Em Transporte
+1475,170,2025-11-02,Pix,Entregue
+1476,214,2025-04-22,Pix,Entregue
+1477,313,2025-10-19,Boleto,Em Transporte
+1478,495,2025-07-01,Cartão,Em Transporte
+1479,477,2026-01-04,Pix,Entregue
+1480,166,2025-11-03,Cartão,Cancelado
+1481,389,2025-03-11,Cartão,Em Transporte
+1482,150,2025-03-08,Cartão,Entregue
+1483,356,2025-05-05,Cartão,Cancelado
+1484,212,2026-06-24,Boleto,Entregue
+1485,314,2025-08-03,Pix,Entregue
+1486,248,2025-03-31,Boleto,Em Transporte
+1487,219,2025-10-22,Boleto,Cancelado
+1488,270,2025-09-23,Boleto,Em Transporte
+1489,475,2025-12-29,Pix,Em Transporte
+1490,267,2026-05-24,Boleto,Em Transporte
+1491,253,2026-05-25,Pix,Em Transporte
+1492,363,2025-08-27,Cartão,Entregue
+1493,61,2025-01-02,Pix,Cancelado
+1494,378,2025-05-01,Pix,Em Transporte
+1495,212,2026-03-01,Pix,Cancelado
+1496,287,2025-12-25,Boleto,Entregue
+1497,328,2025-01-12,Pix,Em Transporte
+1498,131,2025-10-16,Pix,Cancelado
+1499,260,2025-11-04,Boleto,Cancelado
+1500,59,2025-01-07,Boleto,Cancelado
+1501,203,2025-12-16,Boleto,Em Transporte
+1502,427,2025-01-30,Pix,Entregue
+1503,427,2025-12-05,Cartão,Em Transporte
+1504,470,2026-05-06,Cartão,Entregue
+1505,247,2025-05-20,Pix,Em Transporte
+1506,457,2026-04-17,Boleto,Cancelado
+1507,402,2026-04-19,Cartão,Em Transporte
+1508,428,2025-02-27,Boleto,Cancelado
+1509,285,2025-11-20,Boleto,Entregue
+1510,296,2025-08-02,Boleto,Cancelado
+1511,34,2025-12-29,Pix,Cancelado
+1512,174,2025-02-01,Cartão,Em Transporte
+1513,293,2025-06-19,Boleto,Cancelado
+1514,305,2025-07-11,Pix,Cancelado
+1515,364,2025-11-19,Pix,Cancelado
+1516,45,2026-02-28,Cartão,Entregue
+1517,232,2026-01-16,Cartão,Entregue
+1518,155,2026-06-22,Pix,Entregue
+1519,402,2026-01-19,Pix,Entregue
+1520,228,2025-04-05,Boleto,Entregue
+1521,464,2026-05-10,Boleto,Entregue
+1522,175,2025-07-14,Cartão,Em Transporte
+1523,159,2026-06-21,Cartão,Entregue
+1524,421,2025-04-11,Boleto,Em Transporte
+1525,106,2025-05-16,Boleto,Entregue
+1526,199,2026-04-16,Boleto,Em Transporte
+1527,3,2025-04-29,Cartão,Entregue
+1528,171,2025-03-31,Cartão,Entregue
+1529,267,2025-04-16,Boleto,Em Transporte
+1530,12,2025-11-16,Boleto,Cancelado
+1531,165,2025-08-03,Pix,Entregue
+1532,142,2025-10-21,Boleto,Cancelado
+1533,344,2026-03-28,Pix,Cancelado
+1534,81,2025-06-02,Cartão,Entregue
+1535,491,2025-01-16,Boleto,Em Transporte
+1536,53,2026-06-11,Pix,Em Transporte
+1537,282,2025-12-25,Cartão,Cancelado
+1538,483,2025-05-25,Boleto,Cancelado
+1539,88,2025-09-08,Pix,Cancelado
+1540,277,2025-12-13,Cartão,Entregue
+1541,15,2025-05-14,Cartão,Em Transporte
+1542,55,2025-02-21,Cartão,Entregue
+1543,219,2025-03-30,Cartão,Entregue
+1544,316,2026-04-02,Cartão,Cancelado
+1545,419,2025-12-07,Pix,Em Transporte
+1546,499,2025-03-22,Cartão,Em Transporte
+1547,48,2025-05-15,Boleto,Cancelado
+1548,234,2025-04-10,Cartão,Em Transporte
+1549,241,2026-04-22,Pix,Entregue
+1550,441,2025-05-28,Boleto,Cancelado
+1551,201,2026-01-08,Pix,Em Transporte
+1552,404,2025-12-05,Cartão,Cancelado
+1553,16,2026-05-15,Pix,Cancelado
+1554,180,2025-04-26,Cartão,Cancelado
+1555,145,2025-06-24,Cartão,Em Transporte
+1556,261,2025-05-11,Pix,Cancelado
+1557,167,2025-04-20,Boleto,Em Transporte
+1558,406,2025-03-14,Cartão,Em Transporte
+1559,206,2026-04-18,Boleto,Cancelado
+1560,318,2025-09-02,Pix,Em Transporte
+1561,499,2025-06-12,Cartão,Cancelado
+1562,175,2025-03-09,Pix,Em Transporte
+1563,402,2026-03-18,Cartão,Em Transporte
+1564,279,2025-12-17,Boleto,Entregue
+1565,340,2025-06-27,Boleto,Entregue
+1566,59,2026-05-14,Boleto,Em Transporte
+1567,167,2026-04-20,Boleto,Entregue
+1568,91,2026-04-01,Cartão,Cancelado
+1569,307,2025-03-13,Pix,Em Transporte
+1570,168,2026-01-24,Cartão,Em Transporte
+1571,47,2025-03-04,Pix,Entregue
+1572,388,2025-01-01,Pix,Em Transporte
+1573,232,2025-06-02,Boleto,Cancelado
+1574,316,2026-02-04,Boleto,Cancelado
+1575,106,2025-07-20,Boleto,Cancelado
+1576,292,2025-11-03,Boleto,Cancelado
+1577,368,2026-03-22,Cartão,Entregue
+1578,314,2025-01-09,Boleto,Cancelado
+1579,437,2025-05-11,Cartão,Entregue
+1580,462,2026-01-14,Boleto,Entregue
+1581,361,2025-01-01,Boleto,Cancelado
+1582,441,2025-04-23,Cartão,Entregue
+1583,222,2025-08-29,Boleto,Em Transporte
+1584,321,2026-02-08,Cartão,Em Transporte
+1585,208,2026-01-27,Cartão,Cancelado
+1586,340,2025-08-05,Pix,Cancelado
+1587,97,2025-05-23,Boleto,Cancelado
+1588,431,2026-01-04,Cartão,Entregue
+1589,447,2025-10-23,Boleto,Entregue
+1590,6,2025-05-18,Pix,Em Transporte
+1591,74,2025-01-17,Boleto,Cancelado
+1592,500,2026-03-24,Pix,Entregue
+1593,329,2025-05-21,Cartão,Cancelado
+1594,320,2026-03-12,Pix,Cancelado
+1595,218,2026-06-06,Boleto,Cancelado
+1596,182,2026-01-29,Pix,Entregue
+1597,310,2026-03-11,Pix,Em Transporte
+1598,434,2026-05-26,Boleto,Entregue
+1599,138,2026-05-29,Cartão,Em Transporte
+1600,18,2026-01-11,Pix,Em Transporte
+1601,361,2026-05-10,Cartão,Entregue
+1602,493,2026-05-09,Boleto,Entregue
+1603,374,2025-05-26,Boleto,Em Transporte
+1604,239,2025-10-14,Boleto,Entregue
+1605,456,2026-06-20,Boleto,Entregue
+1606,242,2025-09-09,Boleto,Em Transporte
+1607,351,2025-03-21,Boleto,Em Transporte
+1608,314,2025-11-16,Pix,Cancelado
+1609,241,2025-01-12,Cartão,Em Transporte
+1610,294,2026-04-26,Boleto,Cancelado
+1611,181,2026-03-08,Cartão,Cancelado
+1612,19,2025-06-21,Boleto,Em Transporte
+1613,373,2025-11-08,Boleto,Cancelado
+1614,323,2025-03-04,Cartão,Em Transporte
+1615,294,2025-06-23,Pix,Em Transporte
+1616,415,2025-10-26,Boleto,Em Transporte
+1617,147,2025-01-28,Cartão,Entregue
+1618,259,2025-05-10,Pix,Cancelado
+1619,68,2025-09-16,Boleto,Cancelado
+1620,440,2025-10-09,Cartão,Entregue
+1621,310,2025-04-25,Pix,Em Transporte
+1622,338,2025-06-04,Cartão,Cancelado
+1623,134,2025-06-29,Boleto,Entregue
+1624,93,2026-05-12,Boleto,Entregue
+1625,44,2025-12-18,Pix,Em Transporte
+1626,429,2025-06-07,Cartão,Cancelado
+1627,122,2026-01-28,Boleto,Cancelado
+1628,108,2025-06-21,Boleto,Em Transporte
+1629,28,2025-12-20,Boleto,Cancelado
+1630,27,2025-04-29,Pix,Cancelado
+1631,244,2026-02-13,Cartão,Cancelado
+1632,195,2025-08-28,Boleto,Em Transporte
+1633,243,2026-02-04,Cartão,Entregue
+1634,7,2026-03-22,Cartão,Cancelado
+1635,348,2026-01-27,Cartão,Em Transporte
+1636,50,2025-02-12,Boleto,Em Transporte
+1637,490,2025-12-29,Cartão,Em Transporte
+1638,172,2025-10-07,Cartão,Cancelado
+1639,131,2025-04-11,Boleto,Em Transporte
+1640,237,2026-02-05,Boleto,Em Transporte
+1641,376,2025-09-05,Boleto,Em Transporte
+1642,267,2025-07-19,Cartão,Em Transporte
+1643,161,2025-07-04,Boleto,Entregue
+1644,426,2025-01-09,Pix,Entregue
+1645,51,2026-02-26,Boleto,Entregue
+1646,180,2026-04-02,Pix,Em Transporte
+1647,129,2025-10-18,Pix,Entregue
+1648,318,2025-01-25,Pix,Entregue
+1649,487,2025-08-11,Boleto,Em Transporte
+1650,363,2025-05-05,Pix,Entregue
+1651,193,2025-05-14,Boleto,Em Transporte
+1652,459,2025-07-09,Pix,Em Transporte
+1653,130,2025-07-08,Cartão,Cancelado
+1654,328,2025-03-19,Cartão,Cancelado
+1655,355,2026-03-14,Boleto,Cancelado
+1656,83,2025-09-21,Pix,Cancelado
+1657,196,2025-03-05,Cartão,Cancelado
+1658,133,2025-03-03,Cartão,Entregue
+1659,36,2026-03-28,Cartão,Entregue
+1660,92,2026-02-07,Boleto,Cancelado
+1661,74,2025-04-22,Boleto,Cancelado
+1662,315,2025-08-12,Boleto,Entregue
+1663,367,2026-03-29,Cartão,Entregue
+1664,38,2025-02-05,Pix,Em Transporte
+1665,398,2025-09-14,Cartão,Entregue
+1666,77,2026-05-25,Boleto,Em Transporte
+1667,478,2025-01-01,Pix,Em Transporte
+1668,137,2026-02-04,Pix,Em Transporte
+1669,464,2025-12-04,Cartão,Em Transporte
+1670,264,2025-01-04,Boleto,Cancelado
+1671,224,2026-05-05,Cartão,Em Transporte
+1672,277,2025-03-13,Pix,Entregue
+1673,489,2026-01-29,Boleto,Cancelado
+1674,291,2025-05-05,Boleto,Cancelado
+1675,350,2025-12-08,Cartão,Cancelado
+1676,324,2025-02-26,Boleto,Entregue
+1677,274,2026-01-10,Cartão,Entregue
+1678,390,2026-04-16,Cartão,Em Transporte
+1679,91,2025-07-27,Boleto,Entregue
+1680,339,2026-01-29,Pix,Cancelado
+1681,459,2026-02-04,Pix,Em Transporte
+1682,250,2026-01-03,Pix,Em Transporte
+1683,377,2026-03-25,Pix,Entregue
+1684,99,2025-02-06,Pix,Em Transporte
+1685,251,2025-09-02,Cartão,Entregue
+1686,256,2025-11-12,Boleto,Cancelado
+1687,19,2025-01-17,Cartão,Entregue
+1688,404,2025-12-12,Boleto,Entregue
+1689,61,2026-02-20,Pix,Em Transporte
+1690,235,2026-06-20,Boleto,Em Transporte
+1691,380,2025-06-02,Boleto,Entregue
+1692,19,2025-03-15,Boleto,Entregue
+1693,335,2026-05-16,Pix,Cancelado
+1694,125,2025-02-16,Boleto,Em Transporte
+1695,8,2025-05-14,Pix,Em Transporte
+1696,464,2025-02-21,Cartão,Entregue
+1697,313,2026-04-13,Pix,Em Transporte
+1698,419,2025-03-07,Pix,Entregue
+1699,305,2026-05-25,Boleto,Entregue
+1700,412,2025-03-06,Pix,Cancelado
+1701,416,2025-12-12,Boleto,Em Transporte
+1702,167,2026-02-16,Pix,Em Transporte
+1703,165,2025-05-21,Pix,Entregue
+1704,172,2025-06-27,Pix,Entregue
+1705,73,2025-10-08,Cartão,Entregue
+1706,284,2026-01-14,Pix,Cancelado
+1707,474,2025-09-07,Boleto,Entregue
+1708,52,2025-05-17,Boleto,Em Transporte
+1709,399,2026-01-21,Pix,Entregue
+1710,42,2026-05-14,Pix,Entregue
+1711,475,2025-07-03,Pix,Em Transporte
+1712,214,2025-10-18,Boleto,Cancelado
+1713,106,2025-05-10,Pix,Em Transporte
+1714,268,2025-10-05,Cartão,Cancelado
+1715,481,2025-09-02,Pix,Em Transporte
+1716,306,2025-02-08,Pix,Em Transporte
+1717,314,2026-05-27,Pix,Em Transporte
+1718,179,2025-11-05,Cartão,Entregue
+1719,99,2025-08-30,Pix,Em Transporte
+1720,317,2025-04-08,Cartão,Em Transporte
+1721,113,2026-06-04,Cartão,Em Transporte
+1722,142,2025-08-02,Pix,Entregue
+1723,408,2025-04-26,Pix,Em Transporte
+1724,255,2026-05-01,Pix,Entregue
+1725,28,2025-02-14,Boleto,Cancelado
+1726,108,2025-10-19,Cartão,Cancelado
+1727,316,2025-12-09,Cartão,Entregue
+1728,380,2025-04-17,Pix,Em Transporte
+1729,81,2025-06-30,Pix,Cancelado
+1730,60,2026-06-12,Pix,Entregue
+1731,304,2026-04-01,Boleto,Cancelado
+1732,102,2026-03-06,Boleto,Em Transporte
+1733,118,2025-11-30,Pix,Cancelado
+1734,51,2025-08-22,Pix,Em Transporte
+1735,446,2026-02-27,Pix,Cancelado
+1736,38,2025-08-14,Cartão,Em Transporte
+1737,28,2026-05-12,Cartão,Entregue
+1738,476,2025-08-10,Boleto,Cancelado
+1739,199,2025-07-02,Cartão,Entregue
+1740,369,2026-04-14,Pix,Em Transporte
+1741,500,2026-01-03,Cartão,Entregue
+1742,66,2025-12-10,Pix,Em Transporte
+1743,144,2025-03-03,Pix,Entregue
+1744,235,2026-04-22,Cartão,Entregue
+1745,113,2025-12-18,Cartão,Em Transporte
+1746,405,2025-06-10,Boleto,Em Transporte
+1747,296,2025-06-24,Boleto,Entregue
+1748,211,2025-03-30,Boleto,Cancelado
+1749,303,2025-08-10,Cartão,Cancelado
+1750,8,2025-10-13,Boleto,Cancelado
+1751,127,2025-09-10,Cartão,Cancelado
+1752,457,2025-08-16,Boleto,Entregue
+1753,214,2025-01-06,Pix,Entregue
+1754,376,2026-04-27,Boleto,Entregue
+1755,272,2026-03-12,Cartão,Cancelado
+1756,232,2025-04-11,Cartão,Entregue
+1757,286,2025-03-27,Pix,Em Transporte
+1758,487,2026-02-21,Pix,Entregue
+1759,152,2026-01-03,Pix,Em Transporte
+1760,9,2025-04-03,Cartão,Em Transporte
+1761,83,2025-11-09,Boleto,Cancelado
+1762,500,2025-01-25,Cartão,Cancelado
+1763,448,2025-05-22,Boleto,Cancelado
+1764,405,2025-07-09,Cartão,Em Transporte
+1765,361,2026-04-21,Boleto,Entregue
+1766,198,2025-03-14,Boleto,Cancelado
+1767,152,2025-02-03,Cartão,Cancelado
+1768,404,2025-08-01,Boleto,Entregue
+1769,377,2025-12-10,Pix,Em Transporte
+1770,455,2026-01-08,Pix,Entregue
+1771,188,2026-01-28,Cartão,Em Transporte
+1772,188,2025-02-11,Cartão,Entregue
+1773,288,2025-03-10,Boleto,Entregue
+1774,172,2025-05-22,Pix,Em Transporte
+1775,333,2025-04-27,Cartão,Em Transporte
+1776,386,2025-08-03,Boleto,Entregue
+1777,181,2025-11-25,Cartão,Em Transporte
+1778,142,2026-03-10,Pix,Entregue
+1779,177,2026-01-17,Cartão,Cancelado
+1780,270,2026-05-29,Pix,Cancelado
+1781,232,2025-10-27,Boleto,Cancelado
+1782,97,2025-03-09,Cartão,Entregue
+1783,201,2025-03-24,Pix,Cancelado
+1784,56,2025-03-20,Pix,Cancelado
+1785,357,2025-04-25,Pix,Cancelado
+1786,448,2025-06-04,Pix,Em Transporte
+1787,151,2025-01-24,Cartão,Em Transporte
+1788,243,2025-05-16,Cartão,Cancelado
+1789,378,2026-03-31,Boleto,Entregue
+1790,97,2025-10-26,Pix,Entregue
+1791,428,2025-08-26,Boleto,Em Transporte
+1792,211,2025-12-10,Boleto,Cancelado
+1793,249,2025-12-01,Boleto,Em Transporte
+1794,235,2026-04-01,Cartão,Em Transporte
+1795,460,2025-05-16,Cartão,Entregue
+1796,117,2025-09-24,Cartão,Cancelado
+1797,395,2025-10-23,Pix,Entregue
+1798,146,2025-12-28,Cartão,Entregue
+1799,365,2025-06-14,Boleto,Cancelado
+1800,499,2025-07-06,Pix,Em Transporte
+1801,83,2025-06-07,Pix,Entregue
+1802,163,2025-02-12,Boleto,Entregue
+1803,134,2026-03-28,Cartão,Entregue
+1804,288,2025-07-30,Boleto,Entregue
+1805,177,2025-11-21,Pix,Cancelado
+1806,277,2026-04-05,Pix,Em Transporte
+1807,63,2025-11-05,Pix,Cancelado
+1808,394,2026-05-27,Pix,Cancelado
+1809,80,2025-11-24,Pix,Em Transporte
+1810,170,2026-06-04,Boleto,Em Transporte
+1811,243,2025-10-30,Cartão,Em Transporte
+1812,410,2025-05-31,Boleto,Em Transporte
+1813,174,2026-03-29,Boleto,Entregue
+1814,461,2026-05-06,Pix,Entregue
+1815,158,2025-04-30,Pix,Cancelado
+1816,229,2025-08-14,Cartão,Entregue
+1817,29,2025-12-01,Boleto,Em Transporte
+1818,299,2025-07-19,Boleto,Entregue
+1819,101,2025-10-12,Pix,Entregue
+1820,347,2026-04-02,Boleto,Entregue
+1821,202,2026-06-09,Pix,Cancelado
+1822,309,2025-11-22,Boleto,Em Transporte
+1823,466,2025-02-27,Boleto,Cancelado
+1824,76,2026-02-12,Boleto,Cancelado
+1825,198,2026-01-14,Cartão,Entregue
+1826,177,2025-10-19,Cartão,Cancelado
+1827,448,2026-04-02,Boleto,Entregue
+1828,373,2025-08-09,Cartão,Em Transporte
+1829,412,2026-03-02,Cartão,Cancelado
+1830,413,2025-06-17,Boleto,Cancelado
+1831,72,2026-03-01,Boleto,Em Transporte
+1832,74,2025-03-30,Pix,Cancelado
+1833,445,2026-05-02,Boleto,Cancelado
+1834,478,2025-03-09,Boleto,Cancelado
+1835,4,2025-04-01,Cartão,Em Transporte
+1836,213,2025-10-07,Pix,Em Transporte
+1837,364,2026-04-19,Boleto,Entregue
+1838,96,2025-07-24,Cartão,Cancelado
+1839,22,2026-05-18,Cartão,Em Transporte
+1840,253,2025-11-08,Boleto,Em Transporte
+1841,115,2026-04-20,Pix,Entregue
+1842,135,2025-06-07,Cartão,Em Transporte
+1843,64,2026-04-29,Boleto,Em Transporte
+1844,214,2025-10-22,Pix,Cancelado
+1845,15,2025-09-08,Pix,Cancelado
+1846,497,2026-05-20,Pix,Em Transporte
+1847,298,2026-01-06,Cartão,Em Transporte
+1848,445,2026-03-23,Cartão,Em Transporte
+1849,499,2026-05-03,Boleto,Entregue
+1850,263,2026-01-18,Boleto,Em Transporte
+1851,433,2025-01-18,Cartão,Entregue
+1852,75,2025-03-01,Cartão,Cancelado
+1853,183,2025-05-19,Pix,Entregue
+1854,185,2025-10-07,Cartão,Em Transporte
+1855,25,2025-12-31,Cartão,Cancelado
+1856,264,2025-03-20,Pix,Em Transporte
+1857,392,2025-07-07,Pix,Em Transporte
+1858,279,2025-06-21,Cartão,Cancelado
+1859,139,2025-11-05,Boleto,Em Transporte
+1860,50,2026-01-07,Boleto,Em Transporte
+1861,422,2025-12-27,Pix,Entregue
+1862,266,2025-05-21,Cartão,Cancelado
+1863,211,2026-05-12,Cartão,Entregue
+1864,112,2025-04-15,Pix,Em Transporte
+1865,426,2025-08-15,Pix,Em Transporte
+1866,434,2026-06-23,Boleto,Em Transporte
+1867,214,2025-04-27,Cartão,Entregue
+1868,420,2025-04-30,Pix,Entregue
+1869,179,2026-05-07,Cartão,Em Transporte
+1870,72,2026-01-07,Cartão,Em Transporte
+1871,391,2026-06-20,Cartão,Entregue
+1872,15,2025-11-08,Boleto,Entregue
+1873,66,2025-08-16,Boleto,Entregue
+1874,158,2025-08-21,Pix,Entregue
+1875,41,2025-05-14,Cartão,Em Transporte
+1876,40,2025-04-25,Pix,Cancelado
+1877,22,2026-03-18,Pix,Entregue
+1878,407,2025-02-03,Boleto,Em Transporte
+1879,241,2025-03-02,Pix,Cancelado
+1880,34,2025-02-14,Cartão,Em Transporte
+1881,387,2025-01-11,Pix,Entregue
+1882,301,2025-07-30,Pix,Entregue
+1883,15,2025-12-26,Pix,Entregue
+1884,486,2025-10-12,Boleto,Cancelado
+1885,83,2025-12-27,Boleto,Em Transporte
+1886,259,2025-09-05,Boleto,Entregue
+1887,420,2025-04-12,Boleto,Entregue
+1888,367,2025-08-11,Pix,Cancelado
+1889,462,2025-06-25,Boleto,Entregue
+1890,474,2025-04-12,Pix,Em Transporte
+1891,188,2026-05-02,Boleto,Em Transporte
+1892,226,2025-07-09,Boleto,Entregue
+1893,428,2025-07-05,Cartão,Cancelado
+1894,110,2026-03-11,Boleto,Entregue
+1895,58,2026-02-22,Cartão,Entregue
+1896,57,2026-04-23,Boleto,Entregue
+1897,391,2026-05-23,Cartão,Em Transporte
+1898,286,2025-10-23,Boleto,Entregue
+1899,168,2025-03-26,Cartão,Entregue
+1900,146,2026-01-30,Cartão,Em Transporte
+1901,352,2025-11-16,Cartão,Entregue
+1902,149,2026-02-22,Cartão,Entregue
+1903,459,2025-03-13,Cartão,Em Transporte
+1904,92,2026-01-12,Pix,Em Transporte
+1905,345,2026-05-19,Pix,Cancelado
+1906,268,2026-03-25,Boleto,Em Transporte
+1907,62,2025-03-29,Pix,Cancelado
+1908,356,2026-02-15,Boleto,Entregue
+1909,34,2025-06-22,Cartão,Entregue
+1910,103,2025-12-13,Boleto,Cancelado
+1911,120,2025-05-06,Cartão,Em Transporte
+1912,143,2026-05-27,Boleto,Em Transporte
+1913,388,2025-10-07,Boleto,Cancelado
+1914,244,2025-12-31,Boleto,Em Transporte
+1915,249,2026-02-19,Boleto,Cancelado
+1916,394,2025-05-31,Cartão,Entregue
+1917,129,2025-05-06,Cartão,Cancelado
+1918,322,2025-08-25,Pix,Entregue
+1919,378,2025-04-12,Pix,Entregue
+1920,348,2026-05-26,Pix,Entregue
+1921,310,2026-01-27,Boleto,Cancelado
+1922,156,2025-06-06,Boleto,Em Transporte
+1923,390,2025-04-09,Pix,Em Transporte
+1924,393,2026-06-17,Cartão,Cancelado
+1925,151,2025-07-26,Boleto,Cancelado
+1926,259,2026-05-18,Cartão,Em Transporte
+1927,415,2025-12-18,Boleto,Em Transporte
+1928,488,2025-01-19,Pix,Cancelado
+1929,197,2025-05-02,Cartão,Cancelado
+1930,227,2026-01-21,Cartão,Entregue
+1931,91,2025-02-03,Boleto,Em Transporte
+1932,453,2025-11-07,Boleto,Entregue
+1933,221,2026-05-19,Pix,Cancelado
+1934,250,2026-02-03,Pix,Em Transporte
+1935,338,2026-05-18,Boleto,Em Transporte
+1936,244,2026-04-27,Boleto,Entregue
+1937,29,2026-06-03,Cartão,Cancelado
+1938,303,2026-05-22,Cartão,Em Transporte
+1939,393,2025-12-28,Cartão,Cancelado
+1940,15,2025-03-04,Boleto,Entregue
+1941,429,2025-05-12,Cartão,Cancelado
+1942,392,2025-01-28,Boleto,Cancelado
+1943,50,2026-01-25,Cartão,Cancelado
+1944,211,2026-01-01,Cartão,Entregue
+1945,127,2025-09-08,Pix,Em Transporte
+1946,304,2025-11-16,Pix,Em Transporte
+1947,445,2025-03-09,Cartão,Entregue
+1948,87,2025-12-12,Pix,Em Transporte
+1949,20,2025-11-30,Cartão,Em Transporte
+1950,291,2026-03-09,Boleto,Cancelado
+1951,11,2025-10-01,Boleto,Cancelado
+1952,163,2025-01-23,Cartão,Em Transporte
+1953,166,2026-02-04,Boleto,Entregue
+1954,52,2026-05-16,Boleto,Em Transporte
+1955,173,2025-07-30,Cartão,Em Transporte
+1956,86,2025-12-14,Boleto,Cancelado
+1957,497,2026-01-08,Cartão,Entregue
+1958,326,2026-05-24,Pix,Em Transporte
+1959,148,2025-08-08,Cartão,Entregue
+1960,294,2025-11-01,Cartão,Entregue
+1961,368,2025-04-05,Boleto,Entregue
+1962,140,2025-12-11,Pix,Em Transporte
+1963,219,2026-05-02,Pix,Cancelado
+1964,334,2025-03-20,Cartão,Em Transporte
+1965,222,2025-11-04,Boleto,Em Transporte
+1966,103,2025-11-17,Cartão,Cancelado
+1967,320,2025-09-15,Boleto,Cancelado
+1968,452,2025-07-04,Pix,Em Transporte
+1969,442,2026-06-13,Pix,Em Transporte
+1970,110,2026-05-27,Boleto,Em Transporte
+1971,138,2026-04-24,Boleto,Em Transporte
+1972,479,2026-03-21,Boleto,Em Transporte
+1973,268,2025-03-03,Pix,Cancelado
+1974,76,2026-04-19,Pix,Entregue
+1975,433,2025-11-04,Cartão,Cancelado
+1976,441,2025-11-23,Pix,Em Transporte
+1977,434,2025-07-28,Cartão,Cancelado
+1978,331,2025-10-21,Pix,Cancelado
+1979,208,2025-08-30,Pix,Entregue
+1980,99,2025-06-03,Pix,Entregue
+1981,238,2025-11-14,Cartão,Em Transporte
+1982,217,2026-03-23,Boleto,Entregue
+1983,82,2025-07-26,Cartão,Entregue
+1984,133,2025-01-30,Cartão,Em Transporte
+1985,330,2025-06-30,Pix,Em Transporte
+1986,401,2026-05-13,Pix,Entregue
+1987,161,2025-03-27,Boleto,Cancelado
+1988,462,2025-03-07,Cartão,Cancelado
+1989,204,2025-04-03,Boleto,Entregue
+1990,58,2025-08-30,Boleto,Em Transporte
+1991,478,2026-05-28,Pix,Em Transporte
+1992,129,2026-06-22,Cartão,Entregue
+1993,308,2025-09-01,Pix,Cancelado
+1994,427,2025-12-04,Boleto,Em Transporte
+1995,413,2026-02-04,Boleto,Em Transporte
+1996,479,2025-08-30,Cartão,Entregue
+1997,55,2025-05-28,Pix,Entregue
+1998,226,2025-10-09,Cartão,Cancelado
+1999,252,2025-02-27,Boleto,Cancelado
+2000,163,2025-04-26,Boleto,Cancelado

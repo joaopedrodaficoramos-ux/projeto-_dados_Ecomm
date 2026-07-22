@@ -1,0 +1,501 @@
+﻿id_cliente,nome,cidade,estado,idade
+1,Cliente 1,Belo Horizonte,MG,19
+2,Cliente 2,Rio de Janeiro,RJ,33
+3,Cliente 3,São Paulo,SP,26
+4,Cliente 4,Belo Horizonte,MG,61
+5,Cliente 5,Salvador,BA,23
+6,Cliente 6,Salvador,BA,45
+7,Cliente 7,Belo Horizonte,MG,19
+8,Cliente 8,Belo Horizonte,MG,31
+9,Cliente 9,São Paulo,SP,50
+10,Cliente 10,Salvador,BA,19
+11,Cliente 11,Salvador,BA,30
+12,Cliente 12,Salvador,BA,44
+13,Cliente 13,São Paulo,SP,46
+14,Cliente 14,Salvador,BA,35
+15,Cliente 15,Belo Horizonte,MG,66
+16,Cliente 16,São Paulo,SP,62
+17,Cliente 17,Curitiba,PR,39
+18,Cliente 18,Rio de Janeiro,RJ,27
+19,Cliente 19,São Paulo,SP,66
+20,Cliente 20,Rio de Janeiro,RJ,24
+21,Cliente 21,Belo Horizonte,MG,42
+22,Cliente 22,Belo Horizonte,MG,40
+23,Cliente 23,Rio de Janeiro,RJ,56
+24,Cliente 24,Rio de Janeiro,RJ,69
+25,Cliente 25,Belo Horizonte,MG,64
+26,Cliente 26,Curitiba,PR,52
+27,Cliente 27,Belo Horizonte,MG,42
+28,Cliente 28,Belo Horizonte,MG,53
+29,Cliente 29,Rio de Janeiro,RJ,71
+30,Cliente 30,Salvador,BA,74
+31,Cliente 31,Rio de Janeiro,RJ,54
+32,Cliente 32,São Paulo,SP,63
+33,Cliente 33,Belo Horizonte,MG,20
+34,Cliente 34,São Paulo,SP,67
+35,Cliente 35,Rio de Janeiro,RJ,23
+36,Cliente 36,São Paulo,SP,73
+37,Cliente 37,Belo Horizonte,MG,42
+38,Cliente 38,Rio de Janeiro,RJ,47
+39,Cliente 39,Rio de Janeiro,RJ,28
+40,Cliente 40,Rio de Janeiro,RJ,40
+41,Cliente 41,São Paulo,SP,60
+42,Cliente 42,Rio de Janeiro,RJ,62
+43,Cliente 43,Belo Horizonte,MG,56
+44,Cliente 44,São Paulo,SP,52
+45,Cliente 45,São Paulo,SP,28
+46,Cliente 46,Curitiba,PR,42
+47,Cliente 47,Rio de Janeiro,RJ,58
+48,Cliente 48,Salvador,BA,32
+49,Cliente 49,Rio de Janeiro,RJ,71
+50,Cliente 50,Belo Horizonte,MG,32
+51,Cliente 51,Belo Horizonte,MG,69
+52,Cliente 52,Rio de Janeiro,RJ,43
+53,Cliente 53,Rio de Janeiro,RJ,22
+54,Cliente 54,São Paulo,SP,54
+55,Cliente 55,Rio de Janeiro,RJ,31
+56,Cliente 56,Curitiba,PR,43
+57,Cliente 57,Curitiba,PR,27
+58,Cliente 58,Rio de Janeiro,RJ,26
+59,Cliente 59,São Paulo,SP,65
+60,Cliente 60,Salvador,BA,52
+61,Cliente 61,Rio de Janeiro,RJ,65
+62,Cliente 62,Salvador,BA,45
+63,Cliente 63,Salvador,BA,43
+64,Cliente 64,Rio de Janeiro,RJ,32
+65,Cliente 65,São Paulo,SP,50
+66,Cliente 66,Curitiba,PR,23
+67,Cliente 67,Belo Horizonte,MG,73
+68,Cliente 68,Belo Horizonte,MG,27
+69,Cliente 69,São Paulo,SP,68
+70,Cliente 70,Curitiba,PR,56
+71,Cliente 71,Belo Horizonte,MG,42
+72,Cliente 72,Curitiba,PR,56
+73,Cliente 73,Curitiba,PR,51
+74,Cliente 74,Rio de Janeiro,RJ,53
+75,Cliente 75,Belo Horizonte,MG,61
+76,Cliente 76,Belo Horizonte,MG,61
+77,Cliente 77,Salvador,BA,66
+78,Cliente 78,Rio de Janeiro,RJ,67
+79,Cliente 79,Rio de Janeiro,RJ,25
+80,Cliente 80,Rio de Janeiro,RJ,45
+81,Cliente 81,São Paulo,SP,47
+82,Cliente 82,Belo Horizonte,MG,64
+83,Cliente 83,Rio de Janeiro,RJ,50
+84,Cliente 84,São Paulo,SP,50
+85,Cliente 85,Belo Horizonte,MG,73
+86,Cliente 86,Rio de Janeiro,RJ,71
+87,Cliente 87,Salvador,BA,56
+88,Cliente 88,São Paulo,SP,27
+89,Cliente 89,Rio de Janeiro,RJ,66
+90,Cliente 90,São Paulo,SP,52
+91,Cliente 91,Salvador,BA,18
+92,Cliente 92,Salvador,BA,38
+93,Cliente 93,Curitiba,PR,19
+94,Cliente 94,Belo Horizonte,MG,41
+95,Cliente 95,Rio de Janeiro,RJ,33
+96,Cliente 96,Belo Horizonte,MG,33
+97,Cliente 97,Salvador,BA,23
+98,Cliente 98,Belo Horizonte,MG,64
+99,Cliente 99,Curitiba,PR,70
+100,Cliente 100,Belo Horizonte,MG,66
+101,Cliente 101,Salvador,BA,67
+102,Cliente 102,São Paulo,SP,26
+103,Cliente 103,Curitiba,PR,53
+104,Cliente 104,São Paulo,SP,34
+105,Cliente 105,Salvador,BA,73
+106,Cliente 106,Salvador,BA,45
+107,Cliente 107,São Paulo,SP,52
+108,Cliente 108,São Paulo,SP,63
+109,Cliente 109,Rio de Janeiro,RJ,43
+110,Cliente 110,Rio de Janeiro,RJ,46
+111,Cliente 111,Salvador,BA,46
+112,Cliente 112,Belo Horizonte,MG,33
+113,Cliente 113,São Paulo,SP,22
+114,Cliente 114,Rio de Janeiro,RJ,19
+115,Cliente 115,Salvador,BA,53
+116,Cliente 116,São Paulo,SP,55
+117,Cliente 117,São Paulo,SP,18
+118,Cliente 118,Belo Horizonte,MG,63
+119,Cliente 119,Belo Horizonte,MG,32
+120,Cliente 120,Belo Horizonte,MG,75
+121,Cliente 121,Belo Horizonte,MG,73
+122,Cliente 122,Rio de Janeiro,RJ,22
+123,Cliente 123,Salvador,BA,33
+124,Cliente 124,Rio de Janeiro,RJ,60
+125,Cliente 125,Curitiba,PR,31
+126,Cliente 126,Salvador,BA,26
+127,Cliente 127,Salvador,BA,54
+128,Cliente 128,Curitiba,PR,33
+129,Cliente 129,Curitiba,PR,69
+130,Cliente 130,Curitiba,PR,30
+131,Cliente 131,Belo Horizonte,MG,24
+132,Cliente 132,Curitiba,PR,40
+133,Cliente 133,Curitiba,PR,44
+134,Cliente 134,Curitiba,PR,73
+135,Cliente 135,Belo Horizonte,MG,61
+136,Cliente 136,Belo Horizonte,MG,21
+137,Cliente 137,Curitiba,PR,64
+138,Cliente 138,Rio de Janeiro,RJ,69
+139,Cliente 139,Belo Horizonte,MG,33
+140,Cliente 140,São Paulo,SP,30
+141,Cliente 141,Salvador,BA,46
+142,Cliente 142,São Paulo,SP,45
+143,Cliente 143,São Paulo,SP,35
+144,Cliente 144,Curitiba,PR,33
+145,Cliente 145,Belo Horizonte,MG,46
+146,Cliente 146,Salvador,BA,24
+147,Cliente 147,Belo Horizonte,MG,59
+148,Cliente 148,Salvador,BA,71
+149,Cliente 149,Belo Horizonte,MG,23
+150,Cliente 150,São Paulo,SP,28
+151,Cliente 151,Curitiba,PR,49
+152,Cliente 152,Curitiba,PR,31
+153,Cliente 153,Curitiba,PR,75
+154,Cliente 154,Belo Horizonte,MG,28
+155,Cliente 155,Curitiba,PR,18
+156,Cliente 156,Curitiba,PR,34
+157,Cliente 157,Curitiba,PR,36
+158,Cliente 158,Curitiba,PR,62
+159,Cliente 159,Salvador,BA,60
+160,Cliente 160,Curitiba,PR,27
+161,Cliente 161,São Paulo,SP,36
+162,Cliente 162,São Paulo,SP,21
+163,Cliente 163,Salvador,BA,65
+164,Cliente 164,Salvador,BA,21
+165,Cliente 165,Rio de Janeiro,RJ,21
+166,Cliente 166,Belo Horizonte,MG,55
+167,Cliente 167,Curitiba,PR,50
+168,Cliente 168,Salvador,BA,28
+169,Cliente 169,Belo Horizonte,MG,50
+170,Cliente 170,Belo Horizonte,MG,72
+171,Cliente 171,São Paulo,SP,22
+172,Cliente 172,Salvador,BA,22
+173,Cliente 173,São Paulo,SP,43
+174,Cliente 174,Belo Horizonte,MG,74
+175,Cliente 175,Salvador,BA,33
+176,Cliente 176,Salvador,BA,56
+177,Cliente 177,Belo Horizonte,MG,57
+178,Cliente 178,Belo Horizonte,MG,44
+179,Cliente 179,Salvador,BA,54
+180,Cliente 180,Salvador,BA,38
+181,Cliente 181,Rio de Janeiro,RJ,31
+182,Cliente 182,Rio de Janeiro,RJ,33
+183,Cliente 183,Rio de Janeiro,RJ,43
+184,Cliente 184,São Paulo,SP,60
+185,Cliente 185,Rio de Janeiro,RJ,47
+186,Cliente 186,Rio de Janeiro,RJ,66
+187,Cliente 187,Belo Horizonte,MG,18
+188,Cliente 188,Curitiba,PR,57
+189,Cliente 189,Salvador,BA,24
+190,Cliente 190,Belo Horizonte,MG,52
+191,Cliente 191,São Paulo,SP,50
+192,Cliente 192,Rio de Janeiro,RJ,26
+193,Cliente 193,Rio de Janeiro,RJ,74
+194,Cliente 194,Belo Horizonte,MG,74
+195,Cliente 195,São Paulo,SP,41
+196,Cliente 196,Rio de Janeiro,RJ,28
+197,Cliente 197,Curitiba,PR,71
+198,Cliente 198,Salvador,BA,63
+199,Cliente 199,Rio de Janeiro,RJ,57
+200,Cliente 200,Salvador,BA,18
+201,Cliente 201,Salvador,BA,37
+202,Cliente 202,Belo Horizonte,MG,74
+203,Cliente 203,São Paulo,SP,34
+204,Cliente 204,Belo Horizonte,MG,74
+205,Cliente 205,Belo Horizonte,MG,65
+206,Cliente 206,Salvador,BA,27
+207,Cliente 207,Rio de Janeiro,RJ,36
+208,Cliente 208,Salvador,BA,31
+209,Cliente 209,Rio de Janeiro,RJ,31
+210,Cliente 210,Rio de Janeiro,RJ,50
+211,Cliente 211,Curitiba,PR,34
+212,Cliente 212,Belo Horizonte,MG,23
+213,Cliente 213,Curitiba,PR,71
+214,Cliente 214,Rio de Janeiro,RJ,20
+215,Cliente 215,Belo Horizonte,MG,39
+216,Cliente 216,São Paulo,SP,58
+217,Cliente 217,Rio de Janeiro,RJ,28
+218,Cliente 218,Curitiba,PR,53
+219,Cliente 219,Curitiba,PR,53
+220,Cliente 220,Belo Horizonte,MG,25
+221,Cliente 221,Belo Horizonte,MG,74
+222,Cliente 222,São Paulo,SP,52
+223,Cliente 223,Belo Horizonte,MG,71
+224,Cliente 224,Rio de Janeiro,RJ,55
+225,Cliente 225,Salvador,BA,27
+226,Cliente 226,Curitiba,PR,26
+227,Cliente 227,Belo Horizonte,MG,37
+228,Cliente 228,Rio de Janeiro,RJ,75
+229,Cliente 229,Belo Horizonte,MG,75
+230,Cliente 230,Rio de Janeiro,RJ,31
+231,Cliente 231,São Paulo,SP,60
+232,Cliente 232,Belo Horizonte,MG,40
+233,Cliente 233,Salvador,BA,74
+234,Cliente 234,Curitiba,PR,57
+235,Cliente 235,São Paulo,SP,33
+236,Cliente 236,São Paulo,SP,69
+237,Cliente 237,São Paulo,SP,74
+238,Cliente 238,Curitiba,PR,19
+239,Cliente 239,São Paulo,SP,65
+240,Cliente 240,Rio de Janeiro,RJ,68
+241,Cliente 241,Curitiba,PR,69
+242,Cliente 242,São Paulo,SP,35
+243,Cliente 243,São Paulo,SP,68
+244,Cliente 244,Belo Horizonte,MG,42
+245,Cliente 245,Belo Horizonte,MG,72
+246,Cliente 246,Curitiba,PR,32
+247,Cliente 247,São Paulo,SP,70
+248,Cliente 248,Curitiba,PR,40
+249,Cliente 249,Rio de Janeiro,RJ,70
+250,Cliente 250,São Paulo,SP,32
+251,Cliente 251,Belo Horizonte,MG,60
+252,Cliente 252,São Paulo,SP,43
+253,Cliente 253,Rio de Janeiro,RJ,35
+254,Cliente 254,Belo Horizonte,MG,67
+255,Cliente 255,Rio de Janeiro,RJ,40
+256,Cliente 256,Salvador,BA,43
+257,Cliente 257,Salvador,BA,39
+258,Cliente 258,Belo Horizonte,MG,25
+259,Cliente 259,Rio de Janeiro,RJ,29
+260,Cliente 260,Salvador,BA,34
+261,Cliente 261,Belo Horizonte,MG,24
+262,Cliente 262,Salvador,BA,45
+263,Cliente 263,Rio de Janeiro,RJ,64
+264,Cliente 264,Rio de Janeiro,RJ,45
+265,Cliente 265,Salvador,BA,50
+266,Cliente 266,Belo Horizonte,MG,42
+267,Cliente 267,Salvador,BA,30
+268,Cliente 268,Rio de Janeiro,RJ,20
+269,Cliente 269,Curitiba,PR,18
+270,Cliente 270,Salvador,BA,69
+271,Cliente 271,Salvador,BA,61
+272,Cliente 272,São Paulo,SP,41
+273,Cliente 273,Curitiba,PR,22
+274,Cliente 274,Rio de Janeiro,RJ,57
+275,Cliente 275,Rio de Janeiro,RJ,60
+276,Cliente 276,Belo Horizonte,MG,64
+277,Cliente 277,Rio de Janeiro,RJ,50
+278,Cliente 278,Rio de Janeiro,RJ,60
+279,Cliente 279,Curitiba,PR,38
+280,Cliente 280,Curitiba,PR,62
+281,Cliente 281,Rio de Janeiro,RJ,53
+282,Cliente 282,São Paulo,SP,30
+283,Cliente 283,Curitiba,PR,60
+284,Cliente 284,Curitiba,PR,61
+285,Cliente 285,São Paulo,SP,57
+286,Cliente 286,Salvador,BA,37
+287,Cliente 287,Curitiba,PR,53
+288,Cliente 288,Belo Horizonte,MG,37
+289,Cliente 289,Rio de Janeiro,RJ,31
+290,Cliente 290,Curitiba,PR,68
+291,Cliente 291,Salvador,BA,56
+292,Cliente 292,Rio de Janeiro,RJ,47
+293,Cliente 293,Curitiba,PR,46
+294,Cliente 294,São Paulo,SP,50
+295,Cliente 295,Curitiba,PR,68
+296,Cliente 296,São Paulo,SP,60
+297,Cliente 297,Belo Horizonte,MG,36
+298,Cliente 298,Salvador,BA,60
+299,Cliente 299,Salvador,BA,39
+300,Cliente 300,Belo Horizonte,MG,70
+301,Cliente 301,São Paulo,SP,61
+302,Cliente 302,Rio de Janeiro,RJ,32
+303,Cliente 303,São Paulo,SP,27
+304,Cliente 304,Belo Horizonte,MG,20
+305,Cliente 305,São Paulo,SP,48
+306,Cliente 306,Salvador,BA,72
+307,Cliente 307,Belo Horizonte,MG,47
+308,Cliente 308,Curitiba,PR,74
+309,Cliente 309,Salvador,BA,30
+310,Cliente 310,Curitiba,PR,49
+311,Cliente 311,Curitiba,PR,33
+312,Cliente 312,São Paulo,SP,59
+313,Cliente 313,Belo Horizonte,MG,75
+314,Cliente 314,Belo Horizonte,MG,67
+315,Cliente 315,Curitiba,PR,32
+316,Cliente 316,São Paulo,SP,69
+317,Cliente 317,Salvador,BA,47
+318,Cliente 318,Belo Horizonte,MG,53
+319,Cliente 319,São Paulo,SP,72
+320,Cliente 320,Belo Horizonte,MG,47
+321,Cliente 321,São Paulo,SP,69
+322,Cliente 322,Curitiba,PR,60
+323,Cliente 323,Salvador,BA,53
+324,Cliente 324,Salvador,BA,38
+325,Cliente 325,Curitiba,PR,57
+326,Cliente 326,Salvador,BA,45
+327,Cliente 327,Salvador,BA,46
+328,Cliente 328,São Paulo,SP,65
+329,Cliente 329,Curitiba,PR,46
+330,Cliente 330,Rio de Janeiro,RJ,66
+331,Cliente 331,São Paulo,SP,71
+332,Cliente 332,Rio de Janeiro,RJ,67
+333,Cliente 333,Salvador,BA,49
+334,Cliente 334,São Paulo,SP,35
+335,Cliente 335,Curitiba,PR,22
+336,Cliente 336,Rio de Janeiro,RJ,33
+337,Cliente 337,Rio de Janeiro,RJ,39
+338,Cliente 338,Rio de Janeiro,RJ,75
+339,Cliente 339,Salvador,BA,23
+340,Cliente 340,São Paulo,SP,27
+341,Cliente 341,São Paulo,SP,42
+342,Cliente 342,São Paulo,SP,63
+343,Cliente 343,São Paulo,SP,22
+344,Cliente 344,Curitiba,PR,44
+345,Cliente 345,Rio de Janeiro,RJ,52
+346,Cliente 346,Curitiba,PR,44
+347,Cliente 347,Belo Horizonte,MG,31
+348,Cliente 348,Curitiba,PR,42
+349,Cliente 349,Salvador,BA,62
+350,Cliente 350,Belo Horizonte,MG,72
+351,Cliente 351,Salvador,BA,42
+352,Cliente 352,Curitiba,PR,18
+353,Cliente 353,Rio de Janeiro,RJ,37
+354,Cliente 354,Curitiba,PR,72
+355,Cliente 355,Curitiba,PR,52
+356,Cliente 356,Salvador,BA,69
+357,Cliente 357,Salvador,BA,75
+358,Cliente 358,São Paulo,SP,49
+359,Cliente 359,São Paulo,SP,35
+360,Cliente 360,Curitiba,PR,49
+361,Cliente 361,Belo Horizonte,MG,42
+362,Cliente 362,Rio de Janeiro,RJ,60
+363,Cliente 363,Curitiba,PR,64
+364,Cliente 364,São Paulo,SP,71
+365,Cliente 365,Curitiba,PR,26
+366,Cliente 366,Salvador,BA,52
+367,Cliente 367,Belo Horizonte,MG,43
+368,Cliente 368,Salvador,BA,54
+369,Cliente 369,Belo Horizonte,MG,23
+370,Cliente 370,Curitiba,PR,26
+371,Cliente 371,Curitiba,PR,29
+372,Cliente 372,Belo Horizonte,MG,34
+373,Cliente 373,Curitiba,PR,38
+374,Cliente 374,São Paulo,SP,47
+375,Cliente 375,Rio de Janeiro,RJ,39
+376,Cliente 376,Curitiba,PR,35
+377,Cliente 377,Curitiba,PR,34
+378,Cliente 378,Belo Horizonte,MG,48
+379,Cliente 379,Belo Horizonte,MG,65
+380,Cliente 380,Salvador,BA,21
+381,Cliente 381,Rio de Janeiro,RJ,32
+382,Cliente 382,Belo Horizonte,MG,67
+383,Cliente 383,Belo Horizonte,MG,66
+384,Cliente 384,Belo Horizonte,MG,33
+385,Cliente 385,São Paulo,SP,71
+386,Cliente 386,Belo Horizonte,MG,57
+387,Cliente 387,São Paulo,SP,33
+388,Cliente 388,São Paulo,SP,48
+389,Cliente 389,Belo Horizonte,MG,54
+390,Cliente 390,São Paulo,SP,47
+391,Cliente 391,Rio de Janeiro,RJ,67
+392,Cliente 392,Rio de Janeiro,RJ,28
+393,Cliente 393,Salvador,BA,56
+394,Cliente 394,Belo Horizonte,MG,67
+395,Cliente 395,São Paulo,SP,37
+396,Cliente 396,Belo Horizonte,MG,55
+397,Cliente 397,Belo Horizonte,MG,37
+398,Cliente 398,Salvador,BA,61
+399,Cliente 399,Curitiba,PR,43
+400,Cliente 400,São Paulo,SP,22
+401,Cliente 401,Salvador,BA,62
+402,Cliente 402,São Paulo,SP,24
+403,Cliente 403,Rio de Janeiro,RJ,72
+404,Cliente 404,Salvador,BA,69
+405,Cliente 405,Belo Horizonte,MG,68
+406,Cliente 406,Salvador,BA,68
+407,Cliente 407,Belo Horizonte,MG,40
+408,Cliente 408,Salvador,BA,45
+409,Cliente 409,Rio de Janeiro,RJ,22
+410,Cliente 410,Salvador,BA,59
+411,Cliente 411,Rio de Janeiro,RJ,18
+412,Cliente 412,Curitiba,PR,70
+413,Cliente 413,Curitiba,PR,24
+414,Cliente 414,Curitiba,PR,41
+415,Cliente 415,Curitiba,PR,63
+416,Cliente 416,São Paulo,SP,45
+417,Cliente 417,São Paulo,SP,64
+418,Cliente 418,Salvador,BA,59
+419,Cliente 419,Rio de Janeiro,RJ,57
+420,Cliente 420,Salvador,BA,67
+421,Cliente 421,Curitiba,PR,47
+422,Cliente 422,Curitiba,PR,70
+423,Cliente 423,Salvador,BA,35
+424,Cliente 424,Rio de Janeiro,RJ,72
+425,Cliente 425,São Paulo,SP,71
+426,Cliente 426,Belo Horizonte,MG,35
+427,Cliente 427,Curitiba,PR,33
+428,Cliente 428,Curitiba,PR,54
+429,Cliente 429,Salvador,BA,60
+430,Cliente 430,Curitiba,PR,39
+431,Cliente 431,Belo Horizonte,MG,49
+432,Cliente 432,Rio de Janeiro,RJ,29
+433,Cliente 433,Curitiba,PR,31
+434,Cliente 434,Rio de Janeiro,RJ,69
+435,Cliente 435,Rio de Janeiro,RJ,39
+436,Cliente 436,Rio de Janeiro,RJ,74
+437,Cliente 437,Salvador,BA,62
+438,Cliente 438,Rio de Janeiro,RJ,53
+439,Cliente 439,Belo Horizonte,MG,51
+440,Cliente 440,São Paulo,SP,23
+441,Cliente 441,São Paulo,SP,64
+442,Cliente 442,Curitiba,PR,49
+443,Cliente 443,Salvador,BA,66
+444,Cliente 444,São Paulo,SP,62
+445,Cliente 445,Curitiba,PR,59
+446,Cliente 446,Curitiba,PR,46
+447,Cliente 447,Belo Horizonte,MG,23
+448,Cliente 448,Rio de Janeiro,RJ,32
+449,Cliente 449,Curitiba,PR,62
+450,Cliente 450,São Paulo,SP,37
+451,Cliente 451,Salvador,BA,41
+452,Cliente 452,Curitiba,PR,53
+453,Cliente 453,Salvador,BA,40
+454,Cliente 454,Curitiba,PR,65
+455,Cliente 455,Salvador,BA,39
+456,Cliente 456,Rio de Janeiro,RJ,62
+457,Cliente 457,Curitiba,PR,35
+458,Cliente 458,Rio de Janeiro,RJ,34
+459,Cliente 459,São Paulo,SP,25
+460,Cliente 460,São Paulo,SP,38
+461,Cliente 461,Belo Horizonte,MG,65
+462,Cliente 462,Salvador,BA,66
+463,Cliente 463,São Paulo,SP,30
+464,Cliente 464,São Paulo,SP,65
+465,Cliente 465,Curitiba,PR,35
+466,Cliente 466,Salvador,BA,66
+467,Cliente 467,Salvador,BA,56
+468,Cliente 468,Rio de Janeiro,RJ,24
+469,Cliente 469,São Paulo,SP,36
+470,Cliente 470,São Paulo,SP,41
+471,Cliente 471,São Paulo,SP,37
+472,Cliente 472,Belo Horizonte,MG,63
+473,Cliente 473,Salvador,BA,26
+474,Cliente 474,Rio de Janeiro,RJ,20
+475,Cliente 475,Belo Horizonte,MG,53
+476,Cliente 476,Rio de Janeiro,RJ,62
+477,Cliente 477,São Paulo,SP,58
+478,Cliente 478,Curitiba,PR,24
+479,Cliente 479,Belo Horizonte,MG,54
+480,Cliente 480,Rio de Janeiro,RJ,48
+481,Cliente 481,Curitiba,PR,46
+482,Cliente 482,Rio de Janeiro,RJ,29
+483,Cliente 483,Belo Horizonte,MG,34
+484,Cliente 484,Curitiba,PR,25
+485,Cliente 485,Belo Horizonte,MG,43
+486,Cliente 486,Curitiba,PR,22
+487,Cliente 487,Salvador,BA,58
+488,Cliente 488,Belo Horizonte,MG,27
+489,Cliente 489,São Paulo,SP,69
+490,Cliente 490,Salvador,BA,37
+491,Cliente 491,Belo Horizonte,MG,33
+492,Cliente 492,Belo Horizonte,MG,53
+493,Cliente 493,Curitiba,PR,56
+494,Cliente 494,Salvador,BA,68
+495,Cliente 495,Salvador,BA,32
+496,Cliente 496,Salvador,BA,42
+497,Cliente 497,Curitiba,PR,46
+498,Cliente 498,Rio de Janeiro,RJ,73
+499,Cliente 499,Salvador,BA,45
+500,Cliente 500,Rio de Janeiro,RJ,54
