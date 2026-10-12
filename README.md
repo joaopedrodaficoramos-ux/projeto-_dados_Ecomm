@@ -1,31 +1,42 @@
-Análise de Dados de E-commerce com SQL
+# Análise de e-commerce com SQL e Python
 
-Este repositório contém uma série de consultas SQL desenvolvidas para extrair insights e indicadores-chave de desempenho (KPIs) de um banco de dados relacional voltado para o retalho/e-commerce.
+Projeto de portfólio para explorar clientes, produtos e pedidos com consultas SQL reproduzíveis e exportação de indicadores. O objetivo é entender o perfil dos clientes e o valor das vendas por status e categoria.
 
-## 🎯 Objetivo do Projeto
-Realizar análises exploratórias, auditar a base de dados e calcular métricas de negócio fundamentais, como faturamento total, ticket médio, perfil demográfico de clientes e distribuição geográfica das vendas.
+## Tecnologias
+Python 3.10+, SQLite e Pandas. Consultas com JOIN, SUM, COUNT, AVG, GROUP BY e filtros por status.
 
-## 🗄️ Estrutura do Banco de Dados
-As consultas foram construídas para interagir com as seguintes tabelas relacionais do sistema:
-* clientes: Informações demográficas e de localização.
-* produtos: Catálogo de produtos e preços.
-* pedidos: Registos de transações e status da compra.
-* itens_pedido: Detalhes granulares de cada item vendido.
+## Executar
+Na raiz do repositório:
+```bash
+python -m pip install -r requirements.txt
+python ecommerce.db/python/01_importar_dados.py
+python ecommerce.db/python/03_analise_clientes.py
+```
+O importador cria `ecommerce.db/ecommerce.sqlite3` e valida chaves primárias, referências, quantidade positiva e preços não negativos. Reexecutá-lo recria o banco a partir dos mesmos CSVs, sem acumular registros. As análises são exportadas para `outputs/`.
 
-## 🔍 Consultas e Indicadores Desenvolvidos
-O script estruturado realiza as seguintes extrações de inteligência de dados:
-1. *Auditoria de Cadastros:* Contagem total da base de clientes e do catálogo de produtos disponíveis.
-2. *Perfil Demográfico:* Cálculo da média de idade dos clientes ativos.
-3. *Distribuição Geográfica:* Mapeamento e ranking dos estados com maior volume de clientes (ordem decrescente).
-4. *Análise de Preços:* Identificação do produto de menor valor e do produto de maior valor (Mínimo e Máximo).
-5. *Faturamento Bruto:* Soma do valor financeiro total gerado nos itens de pedido.
-6. *Ticket Médio de Vendas:* Cálculo avançado cruzando as tabelas de itens e pedidos (via INNER JOIN), excluindo especificamente os pedidos com status 'Cancelado', para apurar o valor médio real gasto por transação.
+## Estrutura
+- `ecommerce.db/dados_ecmme/`: quatro CSVs de entrada, preservados.
+- `ecommerce.db/consultas_sql/schema.sql`: tabelas, chaves e restrições.
+- `ecommerce.db/consultas_sql/analises_vendas.sql`: consultas comentadas.
+- `ecommerce.db/python/01_importar_dados.py`: criação e carga do banco.
+- `ecommerce.db/python/03_analise_clientes.py`: execução e exportação das análises.
 
-## 🛠️ Tecnologias e Técnicas Utilizadas
-* *Linguagem:* SQL
-* *Técnicas Aplicadas:* 
-  * Funções de Agregação (SUM, COUNT, AVG, MIN, MAX)
-  * Agrupamentos (GROUP BY)
-  * Ordenação Condicional (ORDER BY DESC)
-  * Cruzamento de Tabelas (INNER JOIN)
-  * Filtros Lógicos (WHERE <>)
+## Indicadores e regras
+- Valor de cada item = quantidade × valor unitário.
+- Valor bruto dos itens inclui todos os status; não representa receita recebida.
+- Valor não cancelado exclui apenas `Cancelado` e inclui `Em Transporte` e `Entregue`.
+- Ticket médio = valor não cancelado / número de pedidos distintos não cancelados com itens.
+- A idade média e o ranking de estados consideram todos os clientes cadastrados.
+- A distribuição por status e o ranking de categorias ajudam a separar carteira e pedidos entregues.
+
+## Limitações
+A origem externa dos CSVs não está documentada. Esta é uma base de estudo; não há comprovação de recebimento financeiro, custos ou margem. Os resultados não devem ser apresentados como desempenho de uma empresa real. Valores monetários usam ponto flutuante no SQLite; sistemas financeiros exigem tratamento específico de precisão.
+
+## Resultados reproduzidos na base de estudo
+- 500 clientes, 100 produtos, 2.000 pedidos e 5.070 itens.
+- 1.346 pedidos não cancelados somam R$ 10.418.979,40; ticket médio de R$ 7.740,70.
+- Esportes lidera o valor não cancelado por categoria, com R$ 2.642.036,53.
+- 654 pedidos estão cancelados (32,7% dos pedidos); investigar os motivos de cancelamento seria uma próxima análise, pois a base não os informa.
+Esses resultados descrevem a base fornecida e não representam receita recebida nem desempenho comprovado de uma empresa real.
+
+Auditoria de duplicidades e ausentes: `python ecommerce.db/python/02_limpeza_dados.py`. As fontes CSV permanecem na pasta original; o nome `ecommerce.db` designa uma pasta, não o arquivo SQLite.
